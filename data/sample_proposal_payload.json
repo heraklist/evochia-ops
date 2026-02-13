@@ -1,0 +1,57 @@
+{
+  "proposal_id": "PROP-2026-0001",
+  "proposal_type": "A",
+  "template_type": "A",
+  "compliance_status": "PASS",
+  "client": {
+    "title": "κ.",
+    "name": "Demo Client",
+    "phone": "6900000000",
+    "email": "demo@example.com"
+  },
+  "event": {
+    "date": "2026-02-20",
+    "guest_count": 40,
+    "venue_name": "Demo Venue",
+    "description": "Delivery finger food",
+    "service_style": "delivery"
+  },
+  "menu": {
+    "items": [
+      "Mini sandwich",
+      "Tartlet"
+    ],
+    "item_quantities": [
+      40,
+      40
+    ],
+    "course_categories": []
+  },
+  "pricing": {
+    "cost_total": 0.617,
+    "markup_pct": 300.0,
+    "discount_pct": 0.0,
+    "vat_rate": 0.13,
+    "round_to": 0.5,
+    "net_selling": 2.5,
+    "vat_value": 0.5,
+    "gross_total": 3.0,
+    "price_per_person": 0.08,
+    "formula": "net_selling = total_cost * (1 + markup_pct/100); discount on net before VAT; gross = net + VAT"
+  },
+  "terms": {
+    "includes_list": [
+      "disposables"
+    ],
+    "excludes_list": [],
+    "payment_method": "bank transfer"
+  },
+  "template_refs": {
+    "verbatim_blocks": {
+      "intro_block_ref": "TEMPLATE_FIXED_INTRO",
+      "closing_block_ref": "TEMPLATE_FIXED_CLOSING",
+      "sender_block_ref": "TEMPLATE_FIXED_SENDER"
+    },
+    "placeholders_only": true
+  }
+}

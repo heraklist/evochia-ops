@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "product_id": "PROD-DEMO-PRODUCE-TOMATO",
+      "canonical_name": "Tomato Demo",
+      "category": "produce",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": ["Tomato Demo"]
+    },
+    {
+      "product_id": "PROD-DEMO-SEAFOOD-TUNA",
+      "canonical_name": "Tuna Demo",
+      "category": "seafood",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": ["Tuna Demo"]
+    },
+    {
+      "product_id": "PROD-DEMO-FROZEN-EDAMAME",
+      "canonical_name": "Edamame Demo",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": ["Edamame Demo"]
+    },
+    {
+      "product_id": "PROD-DEMO-DRY-SOY",
+      "canonical_name": "Soy Sauce Demo",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "lt",
+      "aliases": ["Soy Sauce Demo"]
+    }
+  ]
+}

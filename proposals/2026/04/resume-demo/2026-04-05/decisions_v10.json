@@ -1,0 +1,77 @@
+[
+  {
+    "product_id": "PROD-POTATO-STD",
+    "chosen_offer_id": "OFF-MART-20260211-0001",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-MART-20260211-0001",
+        "price_per_base_unit": 0.617,
+        "captured_at": "2026-02-11T07:00:00+02:00",
+        "price_unit": "kg"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-MART-20260211-0001",
+        "price_per_base_unit": 0.617,
+        "captured_at": "2026-02-11T07:00:00+02:00",
+        "price_unit": "kg"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-themart-produce-bal",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "produce",
+          "supplier_id": "TheMart",
+          "max_premium_pct": 8,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-themart-produce-bal",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 8,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-MART-20260211-0001",
+    "lowest_global_price_per_base_unit": 0.617,
+    "chosen_price_per_base_unit": 0.617,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T16:01:14.829739+00:00"
+  }
+]

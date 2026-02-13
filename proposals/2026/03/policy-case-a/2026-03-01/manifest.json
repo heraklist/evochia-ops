@@ -1,0 +1,44 @@
+{
+  "entries": [
+    {
+      "filename": "2026-03-01_policy-case-a_CAT_A_20260212-0906.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\2026-03-01_policy-case-a_CAT_A_20260212-0906.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\proposal_payload.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\proposal_validation.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\proposal_issues.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\render_validation.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\render_issues.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\run_summary.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\decisions.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\template_selection.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-0906\\a",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-03-01_policy-case-a_CAT_A_20260212-0921.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\2026-03-01_policy-case-a_CAT_A_20260212-0921.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\proposal_payload_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\proposal_validation_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\proposal_issues_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\render_validation_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\render_issues_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\run_summary_v2.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\decisions_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\policy-case-a\\2026-03-01\\template_selection_v2.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-0921\\a",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "entries": [
+    {
+      "filename": "2026-03-01_client-a_PC_A_20260212-0814.docx",
+      "filed_artifacts": [
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\2026-03-01_client-a_PC_A_20260212-0814.docx",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\proposal_payload_v3.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\proposal_validation_v3.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\proposal_issues_v3.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\render_validation_v3.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\render_issues_v3.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\run_summary_v2.txt",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\decisions_v3.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\template_selection_v3.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-0814\\a",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_A_DEFAULT"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-03-01_client-a_PC_A_20260212-0814_v2.docx",
+      "filed_artifacts": [
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\2026-03-01_client-a_PC_A_20260212-0814_v2.docx",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\proposal_payload_v4.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\proposal_validation_v4.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\proposal_issues_v4.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\render_validation_v4.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\render_issues_v4.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\run_summary_v3.txt",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\decisions_v4.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\template_selection_v4.json"
+      ],
+      "source_run_path": "skills\\evochia-ops\\runs\\20260212-0814\\a",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_A_DEFAULT"
+      },
+      "filing_version": "v2"
+    },
+    {
+      "filename": "2026-03-01_client-a_PC_A_20260212-0814_v3.docx",
+      "filed_artifacts": [
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\2026-03-01_client-a_PC_A_20260212-0814_v3.docx",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\proposal_payload_v5.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\proposal_validation_v5.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\proposal_issues_v5.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\render_validation_v5.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\render_issues_v5.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\run_summary_v4.txt",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\decisions_v5.json",
+        "skills\\evochia-ops\\proposals\\2026\\03\\client-a\\2026-03-01\\template_selection_v5.json"
+      ],
+      "source_run_path": "skills\\evochia-ops\\runs\\20260212-0814\\a",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_A_DEFAULT"
+      },
+      "filing_version": "v3"
+    }
+  ]
+}

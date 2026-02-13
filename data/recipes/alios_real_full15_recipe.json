@@ -1,0 +1,128 @@
+{
+  "recipe_id": "REC-ALIOS-REAL-FULL15",
+  "name": "Alios Real Full15",
+  "tier": "standard",
+  "portions": 10,
+  "ingredients": [
+    {
+      "line_id": "L1",
+      "product_id": "PROD-ALIOS-REAL-FULL-001",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L2",
+      "product_id": "PROD-ALIOS-REAL-FULL-002",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L3",
+      "product_id": "PROD-ALIOS-REAL-FULL-003",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L4",
+      "product_id": "PROD-ALIOS-REAL-FULL-004",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L5",
+      "product_id": "PROD-ALIOS-REAL-FULL-005",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L6",
+      "product_id": "PROD-ALIOS-REAL-FULL-006",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L7",
+      "product_id": "PROD-ALIOS-REAL-FULL-007",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L8",
+      "product_id": "PROD-ALIOS-REAL-FULL-008",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L9",
+      "product_id": "PROD-ALIOS-REAL-FULL-009",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L10",
+      "product_id": "PROD-ALIOS-REAL-FULL-010",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L11",
+      "product_id": "PROD-ALIOS-REAL-FULL-011",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L12",
+      "product_id": "PROD-ALIOS-REAL-FULL-012",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L13",
+      "product_id": "PROD-ALIOS-REAL-FULL-013",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L14",
+      "product_id": "PROD-ALIOS-REAL-FULL-014",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L15",
+      "product_id": "PROD-ALIOS-REAL-FULL-015",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "filename": "2026-03-22_themart-real_DEL_B_20260212-1258.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\themart-real\\2026-03-22\\2026-03-22_themart-real_DEL_B_20260212-1258.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\themart-real\\2026-03-22\\proposal_payload.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\themart-real\\2026-03-22\\proposal_validation.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\themart-real\\2026-03-22\\proposal_issues.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\themart-real\\2026-03-22\\render_validation.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\themart-real\\2026-03-22\\render_issues.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\themart-real\\2026-03-22\\run_summary.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\themart-real\\2026-03-22\\decisions.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\themart-real\\2026-03-22\\template_selection.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1258\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    }
+  ]
+}

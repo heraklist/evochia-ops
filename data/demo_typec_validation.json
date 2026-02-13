@@ -1,0 +1,6 @@
+{
+  "rendered": true,
+  "compliance_status": "PASS",
+  "template": "skills\\evochia-ops\\templates\\Template_TypeC_OmbreEtDesir.html",
+  "output": "skills/evochia-ops/data/demo_typec_output.html"
+}

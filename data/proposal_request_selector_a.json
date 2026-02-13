@@ -1,0 +1,14 @@
+{
+  "proposal_id": "PROP-SEL-A",
+  "service_type": "private_chef",
+  "event_style": "classic",
+  "client": {"title": "Mr", "name": "Client A", "phone": "000", "email": "a@example.com"},
+  "event": {"date": "2026-03-01", "guest_count": 20, "venue_name": "Villa A", "description": "Dinner", "service_style": "plated"},
+  "menu": {
+    "items": ["Tomato Demo", "Tuna Demo"],
+    "item_quantities": [10, 5],
+    "course_categories": ["starter", "main"]
+  },
+  "pricing": {"vat_rate": 0.13, "markup_pct": 20, "discount_pct": 0, "round_to": 0.5},
+  "terms": {"includes_list": ["setup"], "excludes_list": ["alcohol"], "payment_method": "bank transfer"}
+}

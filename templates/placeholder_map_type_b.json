@@ -1,0 +1,24 @@
+{
+  "template_type": "B",
+  "placeholders": [
+    "client_title",
+    "client_name",
+    "client_phone",
+    "client_email",
+    "event_date",
+    "guest_count",
+    "venue_name",
+    "event_description",
+    "service_style",
+    "menu_items",
+    "course_categories",
+    "net_selling",
+    "vat_value",
+    "gross_total",
+    "price_per_person",
+    "vat_rate",
+    "includes_list",
+    "excludes_list",
+    "payment_method"
+  ]
+}

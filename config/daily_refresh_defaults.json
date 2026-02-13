@@ -1,0 +1,31 @@
+{
+  "sources": {
+    "alios": {
+      "type": "xlsx",
+      "paths": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\data\\prices\\alios\\alios_dry_sushi_2025_REAL.xlsx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\data\\prices\\alios\\alios_frozen_sushi_2025_REAL.xlsx"
+      ]
+    },
+    "oporopoleio-unified": {
+      "type": "csv",
+      "supplier_id": "oporopoleio-unified",
+      "display_name": "oporopoleio-unified",
+      "paths": [
+        "C:\\Users\\herax\\Desktop\\oporopoleio_unified.csv"
+      ]
+    },
+    "themart": {
+      "type": "csv",
+      "paths": [
+        "C:\\Users\\herax\\Desktop\\oporopoleio_unified.csv"
+      ]
+    }
+  },
+  "flags": {
+    "reindex_proposals": true,
+    "run_health_checks": true,
+    "reply": true,
+    "file_proposal": false
+  }
+}

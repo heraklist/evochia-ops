@@ -1,0 +1,354 @@
+{
+  "items": [
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-001",
+      "canonical_name": "ΤΟΝΟΣ ΦΙΛΕΤΟ (RED TUNA LOINS) 2kg+ IVP/IQF frozen",
+      "category": "seafood",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "ΤΟΝΟΣ ΦΙΛΕΤΟ (RED TUNA LOINS) 2kg+ IVP/IQF frozen"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-002",
+      "canonical_name": "ΣΟΛΟΜΟΣ ΝΩΠΟΣ SUPERIOR 5/6 ΝΟΡΒΗΓΙΑΣ",
+      "category": "seafood",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "ΣΟΛΟΜΟΣ ΝΩΠΟΣ SUPERIOR 5/6 ΝΟΡΒΗΓΙΑΣ"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-003",
+      "canonical_name": "UNAGI KABAYAKI FILLET GRILLED MARINATED",
+      "category": "seafood",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "UNAGI KABAYAKI FILLET GRILLED MARINATED"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-004",
+      "canonical_name": "ΦΑΓΚΡΙ ΝΩΠΟ ΙΧΘΥΟΤΡΟΦΕΙΟΥ ΕΓΧΩΡΙΟ 800/1000",
+      "category": "seafood",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "ΦΑΓΚΡΙ ΝΩΠΟ ΙΧΘΥΟΤΡΟΦΕΙΟΥ ΕΓΧΩΡΙΟ 800/1000"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-005",
+      "canonical_name": "Μπαρμπούνι Νωπό Ολόκληρο - Red Mullet Fresh Whole 400-600gr",
+      "category": "seafood",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Μπαρμπούνι Νωπό Ολόκληρο - Red Mullet Fresh Whole 400-600gr"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-006",
+      "canonical_name": "Wasabi Paste, 43g, Yutaka – China",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Wasabi Paste, 43g, Yutaka – China"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-007",
+      "canonical_name": "Kona Wasabi with Wasabits, Kinjirushi, Japan",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Kona Wasabi with Wasabits, Kinjirushi, Japan"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-008",
+      "canonical_name": "Konawasabi \"A\", Horseradish mustard powder - China",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Konawasabi \"A\", Horseradish mustard powder - China"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-009",
+      "canonical_name": "Konawasabi \"Premium\"",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Konawasabi \"Premium\""
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-010",
+      "canonical_name": "Ginger pickled, 1kg, Gari pink, Enso - China AA GRADE",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Ginger pickled, 1kg, Gari pink, Enso - China AA GRADE"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-011",
+      "canonical_name": "Ginger pickled, 1kg, Gari white, Enso - China AA GRADE",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Ginger pickled, 1kg, Gari white, Enso - China AA GRADE"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-012",
+      "canonical_name": "Soysauce, 1lt, Kikkoman – Netherlands",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Soysauce, 1lt, Kikkoman – Netherlands"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-013",
+      "canonical_name": "Soysauce Less Salt, 975ml, Kikkoman – Netherlands",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Soysauce Less Salt, 975ml, Kikkoman – Netherlands"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-014",
+      "canonical_name": "MISO PASTE WHITE GMO FREE (1kg) ΙΑΠΩΝΙΑ",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "MISO PASTE WHITE GMO FREE (1kg) ΙΑΠΩΝΙΑ"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-015",
+      "canonical_name": "Rice wine, Sake 720ml, 16% Vol",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Rice wine, Sake 720ml, 16% Vol"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-016",
+      "canonical_name": "Rice wine, Sake 720ml, 16% Vol",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Rice wine, Sake 720ml, 16% Vol"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-017",
+      "canonical_name": "Rice wine, Sake 720ml, 16% Vol",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Rice wine, Sake 720ml, 16% Vol"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-018",
+      "canonical_name": "Unagi Topping, Eel, marinated, roasted",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Unagi Topping, Eel, marinated, roasted"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-019",
+      "canonical_name": "Tobikko Orange – Korea",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Tobikko Orange – Korea"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-020",
+      "canonical_name": "Tobikko Orange – Poland",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Tobikko Orange – Poland"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-021",
+      "canonical_name": "Tobikko Black – Korea",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Tobikko Black – Korea"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-022",
+      "canonical_name": "Tobikko Red – Korea",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Tobikko Red – Korea"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-023",
+      "canonical_name": "Tobikko Yuzu – Letonia",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Tobikko Yuzu – Letonia"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-024",
+      "canonical_name": "Edamame Kernels, peeled, blanched – China",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Edamame Kernels, peeled, blanched – China"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-025",
+      "canonical_name": "Edamame ENSO, whole pods, blanched – China",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Edamame ENSO, whole pods, blanched – China"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-026",
+      "canonical_name": "Goma Wakame \"Select\"- Taiwan",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Goma Wakame \"Select\"- Taiwan"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-027",
+      "canonical_name": "Green Tea powder \"Matcha\", 100% green tea",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Green Tea powder \"Matcha\", 100% green tea"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-028",
+      "canonical_name": "Bamboo Leaves, Enso",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Bamboo Leaves, Enso"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-029",
+      "canonical_name": "Banana leaves",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Banana leaves"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-030",
+      "canonical_name": "Nori gold",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Nori gold"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-031",
+      "canonical_name": "Aji Amarillo",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Aji Amarillo"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-032",
+      "canonical_name": "AJI PANKA",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "AJI PANKA"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-033",
+      "canonical_name": "Dashi moto soup stock",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Dashi moto soup stock"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-034",
+      "canonical_name": "Tofu bean curd",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Tofu bean curd"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-FULL-035",
+      "canonical_name": "Gyoza dough sheet 10x10",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Gyoza dough sheet 10x10"
+      ]
+    }
+  ]
+}

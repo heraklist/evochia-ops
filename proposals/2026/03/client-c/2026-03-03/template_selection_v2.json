@@ -1,0 +1,9 @@
+{
+  "template_type": "C",
+  "service_type": "catering",
+  "event_style": "ombre_et_desir",
+  "template_hint": null,
+  "rule_fired": "RULE_C_OMBRE",
+  "request": "skills\\evochia-ops\\data\\proposal_request_selector_c.json",
+  "timestamp": "2026-02-12T06:04:31.050797+00:00"
+}

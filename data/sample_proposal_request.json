@@ -1,0 +1,33 @@
+{
+  "proposal_id": "PROP-2026-0001",
+  "template_type": "A",
+  "client": {
+    "title": "κ.",
+    "name": "Demo Client",
+    "phone": "6900000000",
+    "email": "demo@example.com"
+  },
+  "event": {
+    "date": "2026-02-20",
+    "guest_count": 40,
+    "venue_name": "Demo Venue",
+    "description": "Delivery finger food",
+    "service_style": "delivery"
+  },
+  "menu": {
+    "items": ["Mini sandwich", "Tartlet"],
+    "item_quantities": [40, 40],
+    "course_categories": []
+  },
+  "pricing": {
+    "markup_pct": 300,
+    "discount_pct": 0,
+    "vat_rate": 0.13,
+    "round_to": 0.5
+  },
+  "terms": {
+    "includes_list": ["disposables"],
+    "excludes_list": [],
+    "payment_method": "bank transfer"
+  }
+}

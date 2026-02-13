@@ -1,0 +1,189 @@
+needs_review_id,supplier_sku,raw_desc,qty,unit_raw,net_price,issue_code,suggestion_1,suggestion_2,suggestion_3,set_product_id,set_unit,set_pack_size,set_pack_unit,persist_mode,reason
+OFF-TM-20260212-0001,148074,Blackberries εισαγωγής (125g),125.0,g,3.07,unmapped,,,,PROD-TM-SKU-148074,g,125.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0002,140361,Blueberries εισαγωγής (125g),125.0,g,1.25,unmapped,,,,PROD-TM-SKU-140361,g,125.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0003,107462,Grapefruit κόκκινα εγχώρια,1.0,kg,1.4,unmapped,,,,PROD-TM-SKU-107462,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0004,107461,Grapefruit λευκά εγχώρια,1.0,kg,1.22,unmapped,,,,PROD-TM-SKU-107461,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0005,103662,Iceberg εισαγωγής,1.0,kg,2.09,unmapped,,,,PROD-TM-SKU-103662,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0006,140363,Raspberries εισαγωγής (125g),125.0,g,2.92,unmapped,,,,PROD-TM-SKU-140363,g,125.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0007,159310,Άνηθος εγχώριος,1.0,kg,0.67,unmapped,,,,PROD-TM-SKU-159310,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0008,126921,Αβοκάντο εισαγωγής,1.0,kg,3.55,unmapped,,,,PROD-TM-SKU-126921,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0011,133216,Αγγούρια Κνωσσού βιολογικά (bio) εγχώρια,1.0,kg,4.25,unmapped,,,,PROD-TM-SKU-133216,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0012,155630,ΑΓΡΟΚΗΠΟΣ ΧΑΛΒΑΤΖΗ κολοκύθα στον ατμό 400g,1.0,kg,2.8,unmapped,,,,PROD-TM-SKU-155630,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0013,202857,ΑΓΡΟΚΗΠΟΣ ΧΑΛΒΑΤΖΗ λαχανικά με κους κους 220g,1.0,kg,3.91,unmapped,,,,PROD-TM-SKU-202857,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0014,202859,ΑΓΡΟΚΗΠΟΣ ΧΑΛΒΑΤΖΗ λαχανικά με ρεβύθια και κινόα 220g,1.0,kg,3.91,unmapped,,,,PROD-TM-SKU-202859,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0015,202858,ΑΓΡΟΚΗΠΟΣ ΧΑΛΒΑΤΖΗ λαχανικά στον ατμό με πλιγούρι και κινόα 220g,1.0,kg,3.91,unmapped,,,,PROD-TM-SKU-202858,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0016,120388,Ακτινίδια βιολογικά (bio) εγχώρια,1.0,kg,3.42,unmapped,,,,PROD-TM-SKU-120388,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0017,107481,Ακτινίδια εγχώρια,1.0,kg,1.99,unmapped,,,,PROD-TM-SKU-107481,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0018,127023,Ανανάς χρυσός εισαγωγής,1.0,kg,1.58,unmapped,,,,PROD-TM-SKU-127023,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0019,113093,ΑΝΑΤΟΛΗ Γλυκάνισος ολόκληρος (30g),30.0,g,0.76,unmapped,,,,PROD-TM-SKU-113093,g,30.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0020,100976,ΑΝΑΤΟΛΗ Ρίγανη (50g),50.0,g,1.39,unmapped,,,,PROD-TM-SKU-100976,g,50.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0021,101127,Αντίδια εγχώρια,1.0,kg,1.44,unmapped,,,,PROD-TM-SKU-101127,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0022,225722,Αποξηραμένα μανιτάρια πορτσίνι σε κουτί 30g,1.0,kg,4.2,unmapped,,,,PROD-TM-SKU-225722,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0023,204638,ΑΠΟΣΤΟΛΟΥ μάραθο άκοπο (100gr),100.0,g,1.71,unmapped,,,,PROD-TM-SKU-204638,g,100.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0024,107467,Αχλάδια κρυστάλλια εγχώρια,1.0,kg,1.79,unmapped,,,,PROD-TM-SKU-107467,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0025,110350,Αχλάδια κρυστάλλια εγχώρια,1.0,kg,1.72,unmapped,,,,PROD-TM-SKU-110350,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0026,136059,Αχλάδια φέτελ βιολογικά (bio) εισαγωγής,1.0,kg,6.09,unmapped,,,,PROD-TM-SKU-136059,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0027,159437,Βαλεριάνα εγχώρια (100g),100.0,g,1.56,unmapped,,,,PROD-TM-SKU-159437,g,100.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0028,113988,Βανίλιες εγχώριες,1.0,kg,2.4,unmapped,,,,PROD-TM-SKU-113988,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0029,129135,Βασιλικός MASTER CHEF (155g),155.0,g,2.39,unmapped,,,,PROD-TM-SKU-129135,g,155.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0030,144214,Βασιλικός MASTER CHEF (500g),500.0,g,4.6,unmapped,,,,PROD-TM-SKU-144214,g,500.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0031,226881,Βασιλομανίταρα αποξηραμένα Ε.Ε. 500g,1.0,kg,60.0,unmapped,,,,PROD-TM-SKU-226881,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0032,226850,Βασιλομανίταρα αποξηραμένα τρίμμα Ε.Ε. 500g,1.0,kg,50.0,unmapped,,,,PROD-TM-SKU-226850,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0033,107520,Γλυκοπατάτες κόκκινες εγχώριες,1.0,kg,1.59,unmapped,,,,PROD-TM-SKU-107520,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0034,144210,Δάφνη MASTER CHEF σε φύλλα (250g),250.0,g,5.84,unmapped,,,,PROD-TM-SKU-144210,g,250.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0035,122712,Δεντρολίβανο MASTER CHEF (160g),160.0,g,2.65,unmapped,,,,PROD-TM-SKU-122712,g,160.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0036,152841,Δεντρολίβανο Μαραθώνα (25g),25.0,g,1.55,unmapped,,,,PROD-TM-SKU-152841,g,25.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0037,135525,Δυόσμος MASTER CHEF τριμμένος (130g),130.0,g,2.57,unmapped,,,,PROD-TM-SKU-135525,g,130.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0038,151471,Δυόσμος εγχώριος,1.0,kg,1.01,unmapped,,,,PROD-TM-SKU-151471,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0039,108179,Δυόσμος ΗΛΙΟΣ (500g),500.0,g,5.24,unmapped,,,,PROD-TM-SKU-108179,g,500.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0040,101556,Δυόσμος ΙΝΔΙΑ (500g),500.0,g,5.14,unmapped,,,,PROD-TM-SKU-101556,g,500.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0041,152823,Δυόσμος Μαραθώνα (25g),25.0,g,1.08,unmapped,,,,PROD-TM-SKU-152823,g,25.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0042,154212,Δυόσμος σε γλαστράκι (11cm),1.0,pcs,1.7,unmapped,,,,PROD-TM-SKU-154212,pcs,1.0,pcs,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0043,160105,Ελληνικά φύλλα σαλάτα ανάμεικτη Baby Leaf 1kg,1.0,kg,6.65,unmapped,,,,PROD-TM-SKU-160105,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0044,109802,Εστραγκόν MASTER CHEF (70g),70.0,g,4.48,unmapped,,,,PROD-TM-SKU-109802,g,70.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0045,204639,ΗΛΙΟΣ δεντρολίβανο σε γυάλινο βάζο 70g,1.0,kg,2.71,unmapped,,,,PROD-TM-SKU-204639,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0046,204640,ΗΛΙΟΣ εστραγκόν σε γυάλινο βάζο 35g,1.0,kg,2.98,unmapped,,,,PROD-TM-SKU-204640,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0047,204667,ΗΛΙΟΣ θυμάρι σε γυάλινο βάζο 100g,1.0,kg,2.76,unmapped,,,,PROD-TM-SKU-204667,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0048,171701,Θρούμπι ΑΠΟΣΤΟΛΟΥ (100g),100.0,g,2.04,unmapped,,,,PROD-TM-SKU-171701,g,100.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0049,125613,Θυμάρι MASTER CHEF (160g),160.0,g,2.34,unmapped,,,,PROD-TM-SKU-125613,g,160.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0050,152511,Κάστανα ολόκληρα καθαρισμένα εισαγωγής 200g,1.0,kg,2.81,unmapped,,,,PROD-TM-SKU-152511,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0051,153085,Κάστανα ολόκληρα προβρασμένα Γαλλίας (400g),400.0,g,5.73,unmapped,,,,PROD-TM-SKU-153085,g,400.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0052,160640,Κάστανα χοντρά εγχώρια,1.0,kg,5.84,unmapped,,,,PROD-TM-SKU-160640,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0053,154316,Καλαμπόκι προβρασμένο εγχώριο (400g),400.0,g,2.8,unmapped,,,,PROD-TM-SKU-154316,g,400.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0054,140506,Καρότα βιολογικά (bio) εγχώρια,1.0,kg,1.96,unmapped,,,,PROD-TM-SKU-140506,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0055,146181,Καρότα βιολογικά (bio) εισαγωγής,1.0,kg,1.94,unmapped,,,,PROD-TM-SKU-146181,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0056,114022,Καρότα εγχώρια 5kg,1.0,kg,3.15,unmapped,,,,PROD-TM-SKU-114022,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0057,102992,Καρύδα εισαγωγής,1.0,kg,2.01,unmapped,,,,PROD-TM-SKU-102992,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0058,139756,Κολοκυθάκια βιολογικά (bio) εγχώρια,1.0,kg,5.77,unmapped,,,,PROD-TM-SKU-139756,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0059,166430,Κολοκύθα butternut εγχώρια,1.0,kg,0.92,unmapped,,,,PROD-TM-SKU-166430,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0060,166432,Κολοκύθα muscat εγχώρια,1.0,kg,0.92,unmapped,,,,PROD-TM-SKU-166432,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0062,108974,Κολοκύθια εισαγωγής,1.0,kg,3.3,unmapped,,,,PROD-TM-SKU-108974,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0063,107523,Κολοκύθια στρογγυλά εγχώρια,1.0,kg,3.07,unmapped,,,,PROD-TM-SKU-107523,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0064,133212,Κουνουπίδι εγχώριο,1.0,kg,1.92,unmapped,,,,PROD-TM-SKU-133212,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0065,108422,Κουνουπίδι εισαγωγής,1.0,kg,1.89,unmapped,,,,PROD-TM-SKU-108422,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0066,217572,ΚΟΥΡΙΚΟΣ ρίγανη Ελληνική 250g,1.0,kg,2.56,unmapped,,,,PROD-TM-SKU-217572,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0067,152183,Κρεμμυδάκια φρέσκα εγχώρια,1.0,kg,2.27,unmapped,,,,PROD-TM-SKU-152183,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0068,154645,Κρεμμύδια κοκκάρι στιφάδο,1.0,kg,1.37,unmapped,,,,PROD-TM-SKU-154645,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0070,166205,Κρεμμύδια κόκκινα ξερά εγχώρια 50-70mm,1.0,kg,0.57,unmapped,,,,PROD-TM-SKU-166205,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0071,166206,Κρεμμύδια κόκκινα ξερά εγχώρια 70-90mm,1.0,kg,0.54,unmapped,,,,PROD-TM-SKU-166206,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0072,156406,Κρεμμύδια ξανθά βιολογικά (bio) εγχώρια,1.0,kg,1.7,unmapped,,,,PROD-TM-SKU-156406,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0074,166318,Κρεμμύδια ξανθά ξερά 50-70 εγχώρια,1.0,kg,0.65,unmapped,,,,PROD-TM-SKU-166318,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0075,126881,Κρεμμύδια ξερά βιολογικά (bio) εγχώρια,1.0,kg,1.7,unmapped,,,,PROD-TM-SKU-126881,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0076,154100,Κόλιανδρος σε γλαστράκι (11cm),1.0,pcs,1.7,unmapped,,,,PROD-TM-SKU-154100,pcs,1.0,pcs,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0077,169952,Λάιμ εισαγωγής,1.0,kg,3.46,unmapped,,,,PROD-TM-SKU-169952,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0079,107505,Λάχανο κινέζικο εγχώριο,1.0,kg,1.53,unmapped,,,,PROD-TM-SKU-107505,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0080,151478,Λάχανο κόκκινο εγχώριο,1.0,kg,0.82,unmapped,,,,PROD-TM-SKU-151478,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0081,141645,Λεμόνια βιολογικά (bio) εγχώρια (250g),250.0,g,1.76,unmapped,,,,PROD-TM-SKU-141645,g,250.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0083,188904,Λεντινούλα πούδρα εισαγωγής (120g),120.0,g,7.6,unmapped,,,,PROD-TM-SKU-188904,g,120.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0084,198814,Λεντινούλα φέτες αποξηραμένες Πολωνίας 25g,1.0,kg,3.8,unmapped,,,,PROD-TM-SKU-198814,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0085,110165,Λωτός εισαγωγής,1.0,kg,4.12,unmapped,,,,PROD-TM-SKU-110165,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0086,126923,Μάνγκο εισαγωγής,1.0,kg,2.73,unmapped,,,,PROD-TM-SKU-126923,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0087,101100,Μήλα fuji εγχώρια,1.0,kg,1.8,unmapped,,,,PROD-TM-SKU-101100,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0088,120351,Μήλα golden εγχώρια,1.0,kg,1.6,unmapped,,,,PROD-TM-SKU-120351,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0089,146091,Μήλα Granny Smith εγχώρια,1.0,kg,1.59,unmapped,,,,PROD-TM-SKU-146091,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0090,158748,Μήλα starking,1.0,kg,2.28,unmapped,,,,PROD-TM-SKU-158748,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0091,133217,Μήλα starking βιολογικά (bio) εγχώρια,1.0,kg,3.25,unmapped,,,,PROD-TM-SKU-133217,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0092,139697,Μήλα starking εγχώρια,1.0,kg,1.45,unmapped,,,,PROD-TM-SKU-139697,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0093,163003,Μήλα starking Πηλίου,1.0,kg,1.42,unmapped,,,,PROD-TM-SKU-163003,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0094,114144,Μήλα starking συσκευασμένα εγχώρια,1.0,kg,1.3,unmapped,,,,PROD-TM-SKU-114144,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0095,149257,Μήλα φιρίκια εγχώρια,1.0,kg,2.96,unmapped,,,,PROD-TM-SKU-149257,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0096,153856,Μανιτάρια agaricus mini Πολωνίας (~3kg),1.0,kg,3.15,unmapped,,,,PROD-TM-SKU-153856,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0097,145613,Μανιτάρια portobello εισαγωγής ~500g ανά τεμ.,1.0,kg,2.52,unmapped,,,,PROD-TM-SKU-145613,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0098,153504,Μανιτάρια καφέ shimeji Κίνας (150g),150.0,g,1.19,unmapped,,,,PROD-TM-SKU-153504,g,150.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0099,201912,Μανιτάρια κορντισεπς αποξηραμένα Εισαγωγής 30g,1.0,kg,4.1,unmapped,,,,PROD-TM-SKU-201912,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0100,153503,Μανιτάρια λευκά shame ji Κίνας (150g),150.0,g,1.19,unmapped,,,,PROD-TM-SKU-153503,g,150.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0101,139735,Μανιτάρια λευκά γίγας εισαγωγής,1.0,kg,3.67,unmapped,,,,PROD-TM-SKU-139735,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0102,132114,Μανιτάρια λευκά γίγας εισαγωγής (500g),500.0,g,1.91,unmapped,,,,PROD-TM-SKU-132114,g,500.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0103,119311,Μανιτάρια λευκά εισαγωγής (500g),500.0,g,1.74,unmapped,,,,PROD-TM-SKU-119311,g,500.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0104,159418,Μανιτάρια μαύρες τρομπέτες εισαγωγής(25g),25.0,g,6.2,unmapped,,,,PROD-TM-SKU-159418,g,25.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0105,154019,Μανιτάρια μαύρη τρούφα (45g),45.0,g,9.1,unmapped,,,,PROD-TM-SKU-154019,g,45.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0106,201665,Μανιτάρια μορχέλες αποξηραμένα Καναδά (25g),25.0,g,12.1,unmapped,,,,PROD-TM-SKU-201665,g,25.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0107,159648,Μανιτάρια πλευρώτους (400g),400.0,g,3.25,unmapped,,,,PROD-TM-SKU-159648,g,400.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0108,159647,Μανιτάρια πλευρώτους (500g),500.0,g,2.98,unmapped,,,,PROD-TM-SKU-159647,g,500.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0109,127645,Μανιτάρια πλευρώτους εγχώρια,1.0,kg,5.75,unmapped,,,,PROD-TM-SKU-127645,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0110,127689,Μανιτάρια πλευρώτους εγχώρια (500g),500.0,g,2.08,unmapped,,,,PROD-TM-SKU-127689,g,500.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0111,159417,Μανιτάρια ποικιλία του δάσους Εύβοιας (30g),30.0,g,4.2,unmapped,,,,PROD-TM-SKU-159417,g,30.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0112,159427,Μανιτάρια ποικιλίας του δάσους Εύβοιας (80g),80.0,g,7.5,unmapped,,,,PROD-TM-SKU-159427,g,80.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0113,225724,Μανιτάρια πορτσίνι σε πούδρα 25g,1.0,kg,2.7,unmapped,,,,PROD-TM-SKU-225724,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0114,133172,Μανταρίνια νόβα εγχώρια,1.0,kg,1.35,unmapped,,,,PROD-TM-SKU-133172,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0115,146121,Μαρούλι εισαγωγής,1.0,kg,0.99,unmapped,,,,PROD-TM-SKU-146121,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0116,154101,Μαϊντανό σε γλαστράκι (11cm),1.0,pcs,1.7,unmapped,,,,PROD-TM-SKU-154101,pcs,1.0,pcs,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0117,105545,Μαϊντανός ΑΠΟΣΤΟΛΟΥ αφυδατωμένος (200g),200.0,g,2.85,unmapped,,,,PROD-TM-SKU-105545,g,200.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0119,114089,Μελιτζάνες τσακώνικες,1.0,kg,2.61,unmapped,,,,PROD-TM-SKU-114089,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0121,151534,Μπανάνες Chiquita Κεντρικής Αμερικής,1.0,kg,1.57,unmapped,,,,PROD-TM-SKU-151534,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0122,153919,Μπανάνες DOLE βιολογικές (bio) Εκουαδόρ,1.0,kg,1.68,unmapped,,,,PROD-TM-SKU-153919,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0123,151813,Μπανάνες Dole Κεντρικής Αμερικής,1.0,kg,1.52,unmapped,,,,PROD-TM-SKU-151813,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0124,124201,Μπανάνες εισαγωγής,1.0,kg,1.11,unmapped,,,,PROD-TM-SKU-124201,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0125,193729,ΜΠΑΡΜΠΑ ΣΤΑΘΗΣ σαλάτα σπανάκι 250g,1.0,kg,1.9,unmapped,,,,PROD-TM-SKU-193729,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0127,123032,Μπρόκολο εισαγωγής,1.0,kg,2.86,unmapped,,,,PROD-TM-SKU-123032,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0128,135179,Ντομάτες βιολογικές (bio) εγχώριες,1.0,kg,2.3,unmapped,,,,PROD-TM-SKU-135179,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0132,156672,Ντοματίνια βελανίδι εγχώρια,1.0,kg,4.29,unmapped,,,,PROD-TM-SKU-156672,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0133,155180,Ντοματίνια βελανίδι εγχώρια (250g),250.0,g,1.54,unmapped,,,,PROD-TM-SKU-155180,g,250.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0134,162931,Παντζάρια ΒΕΖΥΡΟΓΛΟΥ Baby Leaf εγχώρια (100g),100.0,g,1.5,unmapped,,,,PROD-TM-SKU-162931,g,100.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0135,133213,Παντζάρια εγχώρια,1.0,kg,1.19,unmapped,,,,PROD-TM-SKU-133213,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0136,154751,Παντζάρια καθαρισμένα εγχώρια (500g),500.0,g,1.82,unmapped,,,,PROD-TM-SKU-154751,g,500.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0137,187125,Πατάτες mini σε δίχτυ εισαγωγής,1.0,kg,1.54,unmapped,,,,PROD-TM-SKU-187125,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0139,127986,Πατάτες βιολογικές (bio) Εγχώριες,1.0,kg,1.7,unmapped,,,,PROD-TM-SKU-127986,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0142,152936,Πατάτες εισαγωγής σακί με τύρφη ~25kg,1.0,kg,0.57,unmapped,,,,PROD-TM-SKU-152936,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0143,161425,Πατάτες εισαγωγής συσκευασία με τύρφη ~10kg,1.0,kg,0.55,unmapped,,,,PROD-TM-SKU-161425,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0144,158731,Πατάτες Κύπρου 20kg,1.0,kg,1.14,unmapped,,,,PROD-TM-SKU-158731,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0145,158732,Πατάτες Κύπρου συσκευασμένες (3kg),3.0,kg,1.2,unmapped,,,,PROD-TM-SKU-158732,kg,3.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0147,110039,Πιπεριές ανάμεικτες εισαγωγής (450g),450.0,g,2.12,unmapped,,,,PROD-TM-SKU-110039,g,450.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0148,120369,Πιπεριές κέρατο εγχώριες,1.0,kg,3.11,unmapped,,,,PROD-TM-SKU-120369,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0149,126960,Πιπεριές κίτρινες εισαγωγής,1.0,kg,3.67,unmapped,,,,PROD-TM-SKU-126960,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0150,151740,Πιπεριές καυτερές εγχώριες,1.0,kg,2.82,unmapped,,,,PROD-TM-SKU-151740,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0151,114090,Πιπεριές κόκκινες εισαγωγής,1.0,kg,3.26,unmapped,,,,PROD-TM-SKU-114090,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0152,141634,Πιπεριές κόκκινες καυτερές εισαγωγής,1.0,kg,5.68,unmapped,,,,PROD-TM-SKU-141634,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0153,114017,Πιπεριές ξανθές εγχώριες,1.0,kg,3.03,unmapped,,,,PROD-TM-SKU-114017,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0154,133208,Πιπεριές πορτοκαλί εισαγωγής,1.0,kg,3.46,unmapped,,,,PROD-TM-SKU-133208,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0155,109888,Πιπεριές πράσινες βιολογικές (bio) εγχώριες,1.0,kg,3.48,unmapped,,,,PROD-TM-SKU-109888,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0158,122142,Πιπερόριζα (Ginger) εισαγωγής,1.0,kg,3.35,unmapped,,,,PROD-TM-SKU-122142,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0159,171520,Ποικιλία φρέσκων μανιταριών (300g),300.0,g,3.46,unmapped,,,,PROD-TM-SKU-171520,g,300.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0160,165008,Πορτοκάλια valencia σε διχτάκι εγχώρια,1.0,kg,0.88,unmapped,,,,PROD-TM-SKU-165008,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0161,139693,Πορτοκάλια ναβαλίνες βιολογικά (bio) εγχώρια,1.0,kg,1.48,unmapped,,,,PROD-TM-SKU-139693,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0162,107466,Πορτοκάλια ναβαλίνες εγχώρια,1.0,kg,0.86,unmapped,,,,PROD-TM-SKU-107466,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0163,165539,Πορτοκάλια ναβαλίνες εγχώρια,1.0,kg,0.7,unmapped,,,,PROD-TM-SKU-165539,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0164,165538,Πορτοκάλια χυμού ναβαλίνες εγχώρια,1.0,kg,0.7,unmapped,,,,PROD-TM-SKU-165538,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0165,101129,Πράσα εγχώρια,1.0,kg,1.55,unmapped,,,,PROD-TM-SKU-101129,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0166,135192,Ρέβες εισαγωγής,1.0,kg,1.27,unmapped,,,,PROD-TM-SKU-135192,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0167,122718,Ρίγανη MASTER CHEF (180g),180.0,g,2.46,unmapped,,,,PROD-TM-SKU-122718,g,180.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0168,118508,Ρίγανη MASTER CHEF (500g),500.0,g,3.43,unmapped,,,,PROD-TM-SKU-118508,g,500.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0169,125761,Ρίγανη ΗΛΙΟΣ (500g),500.0,g,4.03,unmapped,,,,PROD-TM-SKU-125761,g,500.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0170,113752,Ρίγανη ΗΛΙΟΣ (50g),50.0,g,1.13,unmapped,,,,PROD-TM-SKU-113752,g,50.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0171,133723,Ρίγανη ΙΝΔΙΑ (500g),500.0,g,4.62,unmapped,,,,PROD-TM-SKU-133723,g,500.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0172,114093,Ρίγανη ΙΝΔΙΑ (50g),50.0,g,1.16,unmapped,,,,PROD-TM-SKU-114093,g,50.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0173,151480,Ραδίκια άγρια καλλιεργημένα εγχώρια,1.0,kg,1.56,unmapped,,,,PROD-TM-SKU-151480,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0174,101132,Ραντίτσιο εγχώριο,1.0,kg,2.2,unmapped,,,,PROD-TM-SKU-101132,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0175,107507,Ραπανάκια εισαγωγής (125g),125.0,g,0.77,unmapped,,,,PROD-TM-SKU-107507,g,125.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0176,160087,Ρόκα baby άγρια ΠΕΡΙΒΟΛΙΑ ΒΕΖΥΡΟΓΛΟΥ Φρέσκα Φύλλα Ελληνικά (1kg),1.0,kg,6.1,unmapped,,,,PROD-TM-SKU-160087,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0177,133214,Ρόκα ματσάκι εγχώρια (100g),100.0,g,0.62,unmapped,,,,PROD-TM-SKU-133214,g,100.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0178,146123,Σέλερι εγχώριο,1.0,kg,1.55,unmapped,,,,PROD-TM-SKU-146123,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0179,184761,Σαλάτα BABY LEAF πιπεράτη Ημαθίας (150g),150.0,g,1.56,unmapped,,,,PROD-TM-SKU-184761,g,150.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0180,200574,Σαλάτα BEZΙΡΟΓΛΟΥ Kale Mix Baby Leaf (150g),150.0,g,1.42,unmapped,,,,PROD-TM-SKU-200574,g,150.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0181,200576,Σαλάτα ΒΕΖΙΡΟΓΛΟΥ Super Mix Baby Leaf (150g),150.0,g,1.68,unmapped,,,,PROD-TM-SKU-200576,g,150.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0182,200575,Σαλάτα ΒΕΖΙΡΟΓΛΟΥ Valeriana Mix Baby Leaf (150g),150.0,g,1.75,unmapped,,,,PROD-TM-SKU-200575,g,150.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0183,200573,Σαλάτα ΒΕΖΙΡΟΓΛΟΥ ιταλική (150g),150.0,g,1.55,unmapped,,,,PROD-TM-SKU-200573,g,150.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0184,101130,Σαλάτα εγχώρια,1.0,kg,0.78,unmapped,,,,PROD-TM-SKU-101130,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0185,201772,Σαλάτα ΜΠΑΡΜΠΑ ΣΤΑΘΗΣ Δροσάτη (200gr),200.0,g,1.53,unmapped,,,,PROD-TM-SKU-201772,g,200.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0186,120371,Σαλάτα πράσινη κατσαρή εγχώρια,1.0,kg,0.78,unmapped,,,,PROD-TM-SKU-120371,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0187,200572,Σαλάτα τραγανή ΒΕΖΙΡΟΓΛΟΥ Baby Leaf (150g),150.0,g,1.55,unmapped,,,,PROD-TM-SKU-200572,g,150.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0188,116441,Σελινόριζα εισαγωγής,1.0,kg,1.05,unmapped,,,,PROD-TM-SKU-116441,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0189,120384,Σικορέ εισαγωγής,1.0,kg,4.16,unmapped,,,,PROD-TM-SKU-120384,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0190,141033,Σκόρδα εισαγωγής,1.0,kg,4.12,unmapped,,,,PROD-TM-SKU-141033,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0191,140549,Σκόρδα εισαγωγής 3τεμ.,1.0,kg,1.13,unmapped,,,,PROD-TM-SKU-140549,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0192,151830,Σκόρδα σε λάδι και ρίγανη πολτοποιημένο (2kg),2.0,kg,12.4,unmapped,,,,PROD-TM-SKU-151830,kg,2.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0193,171521,Σουβλάκι φρέσκων μανιταριών (250g),250.0,g,2.98,unmapped,,,,PROD-TM-SKU-171521,g,250.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0195,114086,Σταφύλια σουλτανίνα εγχώρια,1.0,kg,2.59,unmapped,,,,PROD-TM-SKU-114086,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0196,154139,Σχοινόπρασο σε γλαστράκι (11cm),1.0,pcs,1.7,unmapped,,,,PROD-TM-SKU-154139,pcs,1.0,pcs,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0197,152865,Τσάιβς Μαραθώνα (25g),25.0,g,1.35,unmapped,,,,PROD-TM-SKU-152865,g,25.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0198,139736,Φινόκιο εισαγωγής,1.0,kg,2.3,unmapped,,,,PROD-TM-SKU-139736,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0199,146161,Φράουλες εγχώριες,1.0,kg,6.4,unmapped,,,,PROD-TM-SKU-146161,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0200,114087,Φραγκοστάφυλο εισαγωγής (125g),125.0,g,3.5,unmapped,,,,PROD-TM-SKU-114087,g,125.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0201,159434,Φύλλα άγριας ρόκας ΠΕΡΙΒΟΛΙΑ ΒΕΖΥΡΟΓΛΟΥ (100g),100.0,g,0.94,unmapped,,,,PROD-TM-SKU-159434,g,100.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0202,159435,Φύλλα σπανακιού ΠΕΡΙΟΒΟΛΙΑ ΒΕΖΥΡΟΓΛΟΥ (100g),100.0,g,1.03,unmapped,,,,PROD-TM-SKU-159435,g,100.0,g,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0203,207909,ΧΑΛΒΑΤΖΗΣ παντζάρι ολόκληρο στον ατμό βιολογικό 400g και 100g δώρο,1.0,kg,2.68,unmapped,,,,PROD-TM-SKU-207909,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0204,215086,Χουρμάδες Sukkari 200g,1.0,kg,3.5,unmapped,,,,PROD-TM-SKU-215086,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0205,215085,Χουρμάδες με λευκή σοκολάτα 150g,1.0,kg,5.0,unmapped,,,,PROD-TM-SKU-215085,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0206,215083,Χουρμάδες με μαύρη σοκολάτα 100g,1.0,kg,5.0,unmapped,,,,PROD-TM-SKU-215083,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0207,215084,Χουρμάδες με σοκολάτα 100g,1.0,kg,5.0,unmapped,,,,PROD-TM-SKU-215084,kg,1.0,kg,sku_map,real_themart_onboarding_top50_plus
+OFF-TM-20260212-0208,185716,Χουρμάδες φυσικοί βασιλικοί Ισραήλ (250g),250.0,g,3.03,unmapped,,,,PROD-TM-SKU-185716,g,250.0,g,sku_map,real_themart_onboarding_top50_plus

@@ -1,0 +1,10 @@
+[
+  {
+    "product_id": "PROD-POTATO-STD",
+    "chosen_offer_id": "OFF-MART-20260211-0001",
+    "rule_applied": "LOWEST",
+    "alternatives": [],
+    "override_ref": null,
+    "decision_ts": "2026-02-11T17:36:08.186526+00:00"
+  }
+]

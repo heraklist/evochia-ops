@@ -1,0 +1,92 @@
+[
+  {
+    "offer_id": "OFF-ALI-20260212-0026",
+    "product_name": "Goma Wakame \"Select\"- Taiwan",
+    "supplier": "Alios",
+    "supplier_sku": "1599",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260212-0027",
+    "product_name": "Green Tea powder \"Matcha\", 100% green tea",
+    "supplier": "Alios",
+    "supplier_sku": "80153",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260212-0028",
+    "product_name": "Bamboo Leaves, Enso",
+    "supplier": "Alios",
+    "supplier_sku": "ZZY001",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260212-0029",
+    "product_name": "Banana leaves",
+    "supplier": "Alios",
+    "supplier_sku": "13878",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260212-0030",
+    "product_name": "Nori gold",
+    "supplier": "Alios",
+    "supplier_sku": "58074",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260212-0031",
+    "product_name": "Aji Amarillo",
+    "supplier": "Alios",
+    "supplier_sku": "GO_3168",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260212-0032",
+    "product_name": "AJI PANKA",
+    "supplier": "Alios",
+    "supplier_sku": "GO_3167",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260212-0033",
+    "product_name": "Dashi moto soup stock",
+    "supplier": "Alios",
+    "supplier_sku": "80108",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260212-0034",
+    "product_name": "Tofu bean curd",
+    "supplier": "Alios",
+    "supplier_sku": "k071b",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260212-0035",
+    "product_name": "Gyoza dough sheet 10x10",
+    "supplier": "Alios",
+    "supplier_sku": "33216",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  }
+]

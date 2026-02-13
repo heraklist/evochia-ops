@@ -1,0 +1,204 @@
+{
+  "items": [
+    {
+      "product_id": "PROD-ALIOS-REAL-001",
+      "canonical_name": "Wasabi Paste, 43g, Yutaka – China",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Wasabi Paste, 43g, Yutaka – China"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-002",
+      "canonical_name": "Kona Wasabi with Wasabits, Kinjirushi, Japan",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Kona Wasabi with Wasabits, Kinjirushi, Japan"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-003",
+      "canonical_name": "Konawasabi \"A\", Horseradish mustard powder - China",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Konawasabi \"A\", Horseradish mustard powder - China"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-004",
+      "canonical_name": "Konawasabi \"Premium\"",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Konawasabi \"Premium\""
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-005",
+      "canonical_name": "Ginger pickled, 1kg, Gari pink, Enso - China AA GRADE",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Ginger pickled, 1kg, Gari pink, Enso - China AA GRADE"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-006",
+      "canonical_name": "Ginger pickled, 1kg, Gari white, Enso - China AA GRADE",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Ginger pickled, 1kg, Gari white, Enso - China AA GRADE"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-007",
+      "canonical_name": "Soysauce, 1lt, Kikkoman – Netherlands",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Soysauce, 1lt, Kikkoman – Netherlands"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-008",
+      "canonical_name": "Soysauce Less Salt, 975ml, Kikkoman – Netherlands",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Soysauce Less Salt, 975ml, Kikkoman – Netherlands"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-009",
+      "canonical_name": "MISO PASTE WHITE GMO FREE (1kg) ΙΑΠΩΝΙΑ",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "MISO PASTE WHITE GMO FREE (1kg) ΙΑΠΩΝΙΑ"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-010",
+      "canonical_name": "Rice wine, Sake 720ml, 16% Vol",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Rice wine, Sake 720ml, 16% Vol"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-011",
+      "canonical_name": "Rice wine, Sake 720ml, 16% Vol",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Rice wine, Sake 720ml, 16% Vol"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-012",
+      "canonical_name": "Rice wine, Sake 720ml, 16% Vol",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Rice wine, Sake 720ml, 16% Vol"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-013",
+      "canonical_name": "Unagi Topping, Eel, marinated, roasted",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Unagi Topping, Eel, marinated, roasted"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-014",
+      "canonical_name": "Tobikko Orange – Korea",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Tobikko Orange – Korea"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-015",
+      "canonical_name": "Tobikko Orange – Poland",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Tobikko Orange – Poland"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-016",
+      "canonical_name": "Tobikko Black – Korea",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Tobikko Black – Korea"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-017",
+      "canonical_name": "Tobikko Red – Korea",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Tobikko Red – Korea"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-018",
+      "canonical_name": "Tobikko Yuzu – Letonia",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Tobikko Yuzu – Letonia"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-019",
+      "canonical_name": "Edamame Kernels, peeled, blanched – China",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Edamame Kernels, peeled, blanched – China"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-REAL-020",
+      "canonical_name": "Edamame ENSO, whole pods, blanched – China",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Edamame ENSO, whole pods, blanched – China"
+      ]
+    }
+  ]
+}

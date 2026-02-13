@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SourcingDecision",
+  "type": "object",
+  "required": ["product_id", "chosen_offer_id", "rule_applied", "decision_ts"],
+  "properties": {
+    "product_id": {"type": "string"},
+    "chosen_offer_id": {"type": "string"},
+    "rule_applied": {"type": "string", "enum": ["LOCK", "BAN", "PREFER", "LOWEST"]},
+    "alternatives": {"type": "array", "items": {"type": "object"}},
+    "override_ref": {"type": ["string", "null"]},
+    "decision_ts": {"type": "string"}
+  }
+}

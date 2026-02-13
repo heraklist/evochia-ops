@@ -1,0 +1,2 @@
+needs_review_id,supplier_sku,raw_desc,qty,unit_raw,net_price,issue_code,suggestion_1,suggestion_2,suggestion_3,set_product_id,set_unit,set_pack_size,set_pack_unit,persist_mode,reason
+OFF-TM-20260211-0140,126880,Πατάτες,1,pcs,0.61,unmapped,,,,PROD-POTATO-STD,,1,pcs,sku_map,themart round1 potato mapping

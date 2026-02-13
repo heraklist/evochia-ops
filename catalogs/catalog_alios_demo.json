@@ -1,0 +1,204 @@
+{
+  "items": [
+    {
+      "product_id": "PROD-ALIOS-DEMO-001",
+      "canonical_name": "Nori Sheets",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "pcs",
+      "aliases": [
+        "Nori Sheets"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-002",
+      "canonical_name": "Sushi Rice",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Sushi Rice"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-003",
+      "canonical_name": "Rice Vinegar",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "lt",
+      "aliases": [
+        "Rice Vinegar"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-004",
+      "canonical_name": "Soy Sauce",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "lt",
+      "aliases": [
+        "Soy Sauce"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-005",
+      "canonical_name": "Wasabi Paste",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Wasabi Paste"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-006",
+      "canonical_name": "Pickled Ginger",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Pickled Ginger"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-007",
+      "canonical_name": "Sesame Seeds White",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Sesame Seeds White"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-008",
+      "canonical_name": "Sesame Seeds Black",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Sesame Seeds Black"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-009",
+      "canonical_name": "Panko Breadcrumbs",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Panko Breadcrumbs"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-010",
+      "canonical_name": "Tempura Batter Mix",
+      "category": "dry",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Tempura Batter Mix"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-011",
+      "canonical_name": "Salmon Fillet (Frozen)",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Salmon Fillet (Frozen)"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-012",
+      "canonical_name": "Tuna Saku Block (Frozen)",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Tuna Saku Block (Frozen)"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-013",
+      "canonical_name": "Ebi Shrimp (Frozen)",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Ebi Shrimp (Frozen)"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-014",
+      "canonical_name": "Octopus Slices (Frozen)",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Octopus Slices (Frozen)"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-015",
+      "canonical_name": "Surimi Sticks (Frozen)",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Surimi Sticks (Frozen)"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-016",
+      "canonical_name": "Gyoza (Frozen)",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Gyoza (Frozen)"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-017",
+      "canonical_name": "Chicken Karaage (Frozen)",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Chicken Karaage (Frozen)"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-018",
+      "canonical_name": "Vegetable Spring Rolls (Frozen)",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Vegetable Spring Rolls (Frozen)"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-019",
+      "canonical_name": "Tempura Shrimp (Frozen)",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Tempura Shrimp (Frozen)"
+      ]
+    },
+    {
+      "product_id": "PROD-ALIOS-DEMO-020",
+      "canonical_name": "Salmon Roe (Frozen)",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Salmon Roe (Frozen)"
+      ]
+    }
+  ]
+}

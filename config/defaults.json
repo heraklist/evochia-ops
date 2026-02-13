@@ -1,0 +1,31 @@
+{
+  "currency": "EUR",
+  "quality_tiers": ["standard", "premium"],
+  "costing": {
+    "hourly_rate": 16.0,
+    "labor_method": "time-based",
+    "inventory_credit_pct": 0,
+    "pack_rounding": "ceil"
+  },
+  "vat": {
+    "delivery_default": 0.13,
+    "services_default": 0.24,
+    "require_confirmation": true
+  },
+  "pricing": {
+    "markup_pct": 300,
+    "discount_pct": 0,
+    "deposit_pct": 50,
+    "round_to": 0.5
+  },
+  "phase1_price_validity": {
+    "max_age_days": 14,
+    "block_after_days": 28,
+    "use_valid_until_field": true
+  },
+  "phase2_price_validity": {
+    "perishable_max_age_days": 7,
+    "dry_goods_max_age_days": 30,
+    "active": false
+  }
+}

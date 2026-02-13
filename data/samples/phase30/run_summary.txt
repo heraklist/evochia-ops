@@ -1,0 +1,6 @@
+run_type=phase30_policy_demo
+offers_input=C:\Users\herax\.openclaw\workspace\skills\evochia-ops\data\prices\phase30_policy_demo_basket.json
+decisions_on=12
+decisions_off=12
+changed_vs_baseline=6
+diff_report=C:\Users\herax\.openclaw\workspace\skills\evochia-ops\runs\phase30-demo\diff_report.json

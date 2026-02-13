@@ -1,0 +1,6 @@
+{
+  "name": "evochia-ops",
+  "version": "0.1.0",
+  "description": "Evochia catering operations pipeline scaffold",
+  "entry": "SKILL.md"
+}

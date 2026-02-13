@@ -1,0 +1,684 @@
+{
+  "entries": [
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-1018.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-1018.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1018\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-1018_v2.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-1018_v2.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v2.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v2.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1018\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v2"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-1027.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-1027.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v3.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v3.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v3.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v3.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v3.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v3.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v3.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v3.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1027\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-1027_v2.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-1027_v2.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v4.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v4.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v4.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v4.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v4.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v4.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v4.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v4.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1027\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v2"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-1029.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-1029.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v5.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v5.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v5.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v5.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v5.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v5.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v5.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v5.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1029\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-1040.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-1040.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v6.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v6.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v6.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v6.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v6.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v6.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v6.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v6.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1040\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-1101.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-1101.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v7.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v7.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v7.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v7.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v7.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v7.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v7.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v7.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1101\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-1104.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-1104.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v8.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v8.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v8.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v8.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v8.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v8.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v8.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v8.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1104\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-1114.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-1114.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v9.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v9.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v9.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v9.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v9.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v9.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v9.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v9.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1114\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-1118.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-1118.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v10.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v10.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v10.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v10.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v10.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v10.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v10.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v10.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1118\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-1131.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-1131.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v11.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v11.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v11.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v11.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v11.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v11.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v11.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v11.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1131\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-1134.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-1134.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v12.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v12.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v12.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v12.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v12.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v12.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v12.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v12.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1134\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-1259.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-1259.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v13.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v13.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v13.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v13.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v13.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v13.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v13.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v13.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1259\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-1456.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-1456.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v14.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v14.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v14.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v14.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v14.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v14.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v14.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v14.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1456\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-1700.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-1700.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v15.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v15.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v15.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v15.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v15.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v15.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v15.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v15.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1700\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-171201.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-171201.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v16.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v16.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v16.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v16.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v16.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v16.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v16.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v16.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-171201\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-171748.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-171748.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v17.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v17.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v17.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v17.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v17.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v17.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v17.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v17.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-171748\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-171804.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-171804.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v18.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v18.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v18.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v18.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v18.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v18.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v18.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v18.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-171804\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-171822.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-171822.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v19.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v19.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v19.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v19.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v19.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v19.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v19.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v19.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-171822\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-172521.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-172521.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v20.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v20.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v20.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v20.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v20.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v20.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v20.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v20.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-172521\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-173312.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-173312.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v21.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v21.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v21.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v21.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v21.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v21.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v21.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v21.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-173312\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-173410.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-173410.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v22.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v22.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v22.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v22.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v22.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v22.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v22.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v22.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-173410\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-173530.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-173530.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v23.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v23.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v23.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v23.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v23.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v23.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v23.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v23.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-173530\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-173821.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-173821.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v24.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v24.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v24.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v24.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v24.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v24.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v24.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v24.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-173821\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-174455.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-174455.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v25.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v25.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v25.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v25.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v25.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v25.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v25.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v25.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-174455\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-174641.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-174641.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v26.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v26.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v26.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v26.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v26.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v26.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v26.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v26.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-174641\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-175223.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-175223.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v27.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v27.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v27.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v27.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v27.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v27.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v27.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v27.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-175223\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-180106.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-180106.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v28.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v28.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v28.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v28.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v28.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v28.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v28.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v28.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-180106\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260212-192226.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260212-192226.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v29.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v29.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v29.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v29.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v29.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v29.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v29.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v29.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-192226\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260213-074825.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260213-074825.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v30.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v30.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v30.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v30.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v30.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v30.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v30.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v30.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260213-074825\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260213-074854.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260213-074854.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v31.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v31.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v31.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v31.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v31.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v31.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v31.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v31.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260213-074854\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260213-075004.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260213-075004.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v32.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v32.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v32.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v32.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v32.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v32.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v32.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v32.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260213-075004\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260213-075047.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260213-075047.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v33.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v33.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v33.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v33.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v33.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v33.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v33.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v33.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260213-075047\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-04-13_unknown-client_CAT_C_20260213-075135.html",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\2026-04-13_unknown-client_CAT_C_20260213-075135.html",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_payload_v34.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_validation_v34.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\proposal_issues_v34.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_validation_v34.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\render_issues_v34.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\run_summary_v34.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\decisions_v34.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\04\\unknown-client\\2026-04-13\\template_selection_v34.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260213-075135\\c",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+needs_review_id,supplier_sku,raw_desc,qty,unit_raw,net_price,issue_code,suggestion_1,suggestion_2,suggestion_3,set_product_id,set_unit,set_pack_size,set_pack_unit,persist_mode,reason
+OFF-4FSA-20260211-0001,4F-002,Νερό,1,ΚΙΒ,1.50,IMPORT-UNSUPPORTED-UNIT,,,,,,1,kg,sku_map,missing pid demo

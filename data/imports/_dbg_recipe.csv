@@ -1,0 +1,4 @@
+recipe_id,line_id,raw_ingredient,qty,unit,suggestion_1,suggestion_2,suggestion_3,set_product_id,persist_mode,reason
+RECIPE-001-nigiri-salmon,ING-001-item,σολομός,180.0,g,,,,PROD-POTATO-STD,,dbg
+RECIPE-001-nigiri-salmon,ING-002-sushi,ρύζι sushi,120.0,g,,,,PROD-POTATO-STD,,dbg
+RECIPE-001-nigiri-salmon,ING-003-nori,nori,1.0,pcs,,,,PROD-POTATO-STD,,dbg

@@ -1,0 +1,22 @@
+{
+  "supplier_id": "supplier_x",
+  "supplier_name": "Supplier X",
+  "supplier_code": "SUPX",
+  "column_map": {
+    "supplier_sku": "sku",
+    "product_name": "name",
+    "category": "category",
+    "pack_size": "pack_size",
+    "pack_unit": "pack_unit",
+    "price": "price",
+    "currency": "currency",
+    "vat_rate": "vat_rate",
+    "in_stock": "in_stock"
+  },
+  "defaults": {
+    "currency": "EUR",
+    "vat_rate": 0.13,
+    "tier": "standard",
+    "max_age_days": 14
+  }
+}

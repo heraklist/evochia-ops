@@ -1,0 +1,10 @@
+{
+  "proposal_id": "PROP-SEL-C",
+  "compliance_status": "PASS",
+  "placeholder_values": {
+    "COURSE_COUNT": 1,
+    "PRICE_PER_PERSON": "220€",
+    "MENU_BLOCKS": "<section>Ombre menu block</section>"
+  },
+  "source_cost_total": 18.9
+}

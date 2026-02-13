@@ -1,0 +1,36 @@
+supplier_id,supplier_sku,description,packaging,price,price_unit,currency,category,captured_at,notes
+alios,,ΤΟΝΟΣ ΦΙΛΕΤΟ (RED TUNA LOINS) 2kg+ IVP/IQF frozen,2kg+ IVP/IQF frozen,12.98,kg,EUR,seafood,2026-02-12T05:13:46+00:00,
+alios,,ΣΟΛΟΜΟΣ ΝΩΠΟΣ SUPERIOR 5/6 ΝΟΡΒΗΓΙΑΣ,5/6,9.98,kg,EUR,seafood,2026-02-12T05:13:46+00:00,week price
+alios,,UNAGI KABAYAKI FILLET GRILLED MARINATED,~250gr,26.90,kg,EUR,seafood,2026-02-12T05:13:46+00:00,
+alios,,ΦΑΓΚΡΙ ΝΩΠΟ ΙΧΘΥΟΤΡΟΦΕΙΟΥ ΕΓΧΩΡΙΟ 800/1000,800-1200 g,13.40,kg,EUR,seafood,2026-02-12T05:13:46+00:00,
+alios,,Μπαρμπούνι Νωπό Ολόκληρο - Red Mullet Fresh Whole 400-600gr,400-600gr,29.95,kg,EUR,seafood,2026-02-12T05:13:46+00:00,
+alios,YK70896,"Wasabi Paste, 43g, Yutaka – China",43g,1.75,TMX,EUR,dry,2026-02-12T05:13:46+00:00,
+alios,12550,"Kona Wasabi with Wasabits, Kinjirushi, Japan",,19.60,TMX,EUR,dry,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,80102,"Konawasabi ""A"", Horseradish mustard powder - China",,6.28,TMX,EUR,dry,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,98010,"Konawasabi ""Premium""",,9.25,TMX,EUR,dry,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,40120,"Ginger pickled, 1kg, Gari pink, Enso - China AA GRADE",1kg,2.68,TMX,EUR,dry,2026-02-12T05:13:46+00:00,
+alios,40113,"Ginger pickled, 1kg, Gari white, Enso - China AA GRADE",1kg,2.68,TMX,EUR,dry,2026-02-12T05:13:46+00:00,
+alios,010409020,"Soysauce, 1lt, Kikkoman – Netherlands",1lt,5.49,TMX,EUR,dry,2026-02-12T05:13:46+00:00,
+alios,010409244,"Soysauce Less Salt, 975ml, Kikkoman – Netherlands",975ml,6.48,TMX,EUR,dry,2026-02-12T05:13:46+00:00,
+alios,80032,MISO PASTE WHITE GMO FREE (1kg) ΙΑΠΩΝΙΑ,1kg,3.38,TMX,EUR,dry,2026-02-12T05:13:46+00:00,
+alios,U2778,"Rice wine, Sake 720ml, 16% Vol",720ml,61.50,TMX,EUR,dry,2026-02-12T05:13:46+00:00,
+alios,U2779,"Rice wine, Sake 720ml, 16% Vol",720ml,37.94,TMX,EUR,dry,2026-02-12T05:13:46+00:00,
+alios,U5026A,"Rice wine, Sake 720ml, 16% Vol",720ml,27.94,TMX,EUR,dry,2026-02-12T05:13:46+00:00,
+alios,R227A,"Unagi Topping, Eel, marinated, roasted",,4.86,TMX,EUR,frozen,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,1578,Tobikko Orange – Korea,,12.93,TMX,EUR,frozen,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,SU.700.212.500,Tobikko Orange – Poland,,12.93,TMX,EUR,frozen,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,1596,Tobikko Black – Korea,,12.93,TMX,EUR,frozen,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,1597,Tobikko Red – Korea,,12.93,TMX,EUR,frozen,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,SU.705.112.500,Tobikko Yuzu – Letonia,,12.93,TMX,EUR,frozen,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,4807,"Edamame Kernels, peeled, blanched – China",,1.64,TMX,EUR,frozen,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,01643,"Edamame ENSO, whole pods, blanched – China",,1.39,TMX,EUR,frozen,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,1599,"Goma Wakame ""Select""- Taiwan",,5.51,TMX,EUR,frozen,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,80153,"Green Tea powder ""Matcha"", 100% green tea",,27.80,TMX,EUR,dry,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,ZZY001,"Bamboo Leaves, Enso",L:28-33 cm W:7-8 cm,4.20,TMX,EUR,dry,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,13878,Banana leaves,,2.46,TMX,EUR,dry,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,58074,Nori gold,,6.68,TMX,EUR,dry,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,GO_3168,Aji Amarillo,,3.85,TMX,EUR,dry,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,GO_3167,AJI PANKA,,3.85,TMX,EUR,dry,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,80108,Dashi moto soup stock,,12.50,TMX,EUR,dry,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,k071b,Tofu bean curd,,2.10,TMX,EUR,frozen,2026-02-12T05:13:46+00:00,pack_size_missing
+alios,33216,Gyoza dough sheet 10x10,10x10,1.96,TMX,EUR,frozen,2026-02-12T05:13:46+00:00,

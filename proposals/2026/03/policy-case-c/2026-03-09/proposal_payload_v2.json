@@ -1,0 +1,10 @@
+{
+  "proposal_id": "PROP-2026-PCASE-C",
+  "compliance_status": "PASS",
+  "placeholder_values": {
+    "COURSE_COUNT": 4,
+    "PRICE_PER_PERSON": "165€",
+    "MENU_BLOCKS": "<section>Course 1</section><section>Course 2</section><section>Course 3</section><section>Course 4</section>"
+  },
+  "source_cost_total": 0.0
+}

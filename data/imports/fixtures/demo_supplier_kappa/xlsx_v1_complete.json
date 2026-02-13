@@ -1,0 +1,15 @@
+{
+  "rows": [
+    {
+      "item_code": "DEM-001",
+      "desc": "Demo Item 1",
+      "qty": "10",
+      "unit": "KG",
+      "net": "9.90",
+      "currency": "EUR",
+      "vat_rate": "0.13",
+      "in_stock": true,
+      "category": "dry"
+    }
+  ]
+}

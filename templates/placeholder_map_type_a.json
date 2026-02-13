@@ -1,0 +1,20 @@
+{
+  "template_type": "A",
+  "placeholders": [
+    "client_title",
+    "client_name",
+    "client_phone",
+    "client_email",
+    "event_date",
+    "guest_count",
+    "menu_items",
+    "item_quantities",
+    "net_selling",
+    "vat_value",
+    "gross_total",
+    "price_per_person",
+    "vat_rate",
+    "includes_list",
+    "payment_method"
+  ]
+}

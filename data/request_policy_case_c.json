@@ -1,0 +1,9 @@
+{
+  "proposal_id": "PROP-2026-PCASE-C",
+  "template_type": "C",
+  "client": {"title": "κ.", "name": "Policy Case C", "phone": "6900000003", "email": "policy-c@example.com"},
+  "event": {"date": "2026-03-09", "guest_count": 35, "venue_name": "Athens Venue C", "description": "Multi-supplier policy case C", "service_style": "catamaran"},
+  "course_count": 4,
+  "price_per_person": "165€",
+  "menu_blocks": "<section>Course 1</section><section>Course 2</section><section>Course 3</section><section>Course 4</section>"
+}

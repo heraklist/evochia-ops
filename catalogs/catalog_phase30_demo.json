@@ -1,0 +1,7 @@
+{
+  "items": [
+    {"product_id":"PROD-P30-PRODUCE","canonical_name":"Tomato P30","category":"produce","tier":"standard","base_unit":"kg","aliases":["Tomato P30"]},
+    {"product_id":"PROD-P30-SEAFOOD","canonical_name":"Tuna P30","category":"seafood","tier":"standard","base_unit":"kg","aliases":["Tuna P30"]},
+    {"product_id":"PROD-P30-DRY","canonical_name":"Nori P30","category":"dry","tier":"standard","base_unit":"pcs","aliases":["Nori P30"]}
+  ]
+}

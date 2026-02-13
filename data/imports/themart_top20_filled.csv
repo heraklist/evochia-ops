@@ -1,0 +1,21 @@
+needs_review_id,supplier_sku,raw_desc,qty,unit_raw,net_price,issue_code,suggestion_1,suggestion_2,suggestion_3,set_product_id,set_unit,set_pack_size,set_pack_unit,persist_mode,reason
+OFF-TM-20260211-0140,126880,Πατάτες,1,pcs,0.61,ambiguous,PROD-POTATO-STD,,,PROD-POTATO-STD,,1,pcs,sku_map,themart top20: Πατάτες
+OFF-TM-20260211-0141,165007,Πατάτες εγχώριες,1,pcs,0.6,unmapped,PROD-POTATO-STD,,,PROD-POTATO-STD,,1,pcs,sku_map,themart top20: Πατάτες
+OFF-TM-20260211-0138,152358,Πατάτες άπλυτες Γαλλίας,1,pcs,0.57,unmapped,PROD-POTATO-STD,,,PROD-POTATO-STD,,1,pcs,sku_map,themart top20: Πατάτες
+OFF-TM-20260211-0146,153358,Πατάτες πλυμένες Γαλλίας,1,pcs,0.75,unmapped,PROD-POTATO-STD,,,PROD-POTATO-STD,,1,pcs,sku_map,themart top20: Πατάτες
+OFF-TM-20260211-0069,162073,Κρεμμύδια κόκκινα ξερά 50-70 εγχώρια,1,pcs,0.65,unmapped,PROD-ONION-RED-STD,,,PROD-ONION-RED-STD,,1,pcs,sku_map,themart top20: Κρεμμύδια κόκκινα
+OFF-TM-20260211-0073,162074,Κρεμμύδια ξανθά ξερά 50-70 εγχώρια,1,pcs,0.65,unmapped,PROD-ONION-YELLOW-STD,,,PROD-ONION-YELLOW-STD,,1,pcs,sku_map,themart top20: Κρεμμύδια ξανθά
+OFF-TM-20260211-0129,107504,Ντομάτες εγχώριες,1,pcs,1.83,unmapped,PROD-TOMATO-STD,,,PROD-TOMATO-STD,,1,pcs,sku_map,themart top20: Ντομάτες
+OFF-TM-20260211-0130,114018,Ντομάτες τσαμπί εγχώριες,1,pcs,2.18,unmapped,PROD-TOMATO-STD,,,PROD-TOMATO-STD,,1,pcs,sku_map,themart top20: Ντομάτες
+OFF-TM-20260211-0131,126873,Ντομάτες ψιλές εγχώριες,1,pcs,1.28,unmapped,PROD-TOMATO-STD,,,PROD-TOMATO-STD,,1,pcs,sku_map,themart top20: Ντομάτες
+OFF-TM-20260211-0082,126844,Λεμόνια εγχώρια,1,pcs,1.18,unmapped,PROD-LEMON-STD,,,PROD-LEMON-STD,,1,pcs,sku_map,themart top20: Λεμόνια
+OFF-TM-20260211-0010,120555,Αγγούρια εγχώρια,1,pcs,0.85,unmapped,PROD-CUCUMBER-STD,,,PROD-CUCUMBER-STD,,1,pcs,sku_map,themart top20: Αγγούρια
+OFF-TM-20260211-0009,126959,Αγγουράκια εγχώρια,1,pcs,2.97,unmapped,PROD-CUCUMBER-STD,,,PROD-CUCUMBER-STD,,1,pcs,sku_map,themart top20: Αγγούρια
+OFF-TM-20260211-0156,133209,Πιπεριές πράσινες εγχώριες,1,pcs,3.03,unmapped,PROD-PEPPER-GREEN-STD,,,PROD-PEPPER-GREEN-STD,,1,pcs,sku_map,themart top20: Πιπεριές πράσινες
+OFF-TM-20260211-0157,126872,Πιπεριές Φλωρίνης εγχώριες,1,pcs,3.24,unmapped,PROD-PEPPER-RED-STD,,,PROD-PEPPER-RED-STD,,1,pcs,sku_map,themart top20: Πιπεριές κόκκινες
+OFF-TM-20260211-0061,146220,Κολοκύθια εγχώρια,1,pcs,2.64,unmapped,PROD-ZUCCHINI-STD,,,PROD-ZUCCHINI-STD,,1,pcs,sku_map,themart top20: Κολοκύθια
+OFF-TM-20260211-0120,114025,Μελιτζάνες φλάσκες εγχώριες,1,pcs,3.1,unmapped,PROD-EGGPLANT-STD,,,PROD-EGGPLANT-STD,,1,pcs,sku_map,themart top20: Μελιτζάνες
+OFF-TM-20260211-0126,146122,Μπρόκολο εγχώριο,1,pcs,2.88,unmapped,PROD-BROCCOLI-STD,,,PROD-BROCCOLI-STD,,1,pcs,sku_map,themart top20: Μπρόκολο
+OFF-TM-20260211-0078,101128,Λάχανο άσπρο εγχώριο,1,pcs,0.38,unmapped,PROD-CABBAGE-STD,,,PROD-CABBAGE-STD,,1,pcs,sku_map,themart top20: Λάχανο
+OFF-TM-20260211-0194,183473,Σπανάκι εγχώριο,1,pcs,1.82,unmapped,PROD-SPINACH-STD,,,PROD-SPINACH-STD,,1,pcs,sku_map,themart top20: Σπανάκι
+OFF-TM-20260211-0118,159313,Μαϊντανός εγχώριος,1,pcs,0.52,unmapped,PROD-PARSLEY-STD,,,PROD-PARSLEY-STD,,1,pcs,sku_map,themart top20: Μαϊντανός

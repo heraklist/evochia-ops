@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ImportBatch",
+  "type": "object",
+  "required": ["batch_id", "source", "supplier_id", "captured_at", "files", "stats"],
+  "properties": {
+    "batch_id": {"type": "string"},
+    "source": {"type": "string", "enum": ["csv", "ocr"]},
+    "supplier_id": {"type": "string"},
+    "captured_at": {"type": "string", "format": "date-time"},
+    "files": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["path", "kind"],
+        "properties": {
+          "path": {"type": "string"},
+          "kind": {"type": "string", "enum": ["csv", "pdf", "image", "json"]}
+        }
+      }
+    },
+    "stats": {
+      "type": "object",
+      "required": ["rows_in", "rows_out", "rows_needs_review"],
+      "properties": {
+        "rows_in": {"type": "number"},
+        "rows_out": {"type": "number"},
+        "rows_needs_review": {"type": "number"}
+      }
+    }
+  }
+}

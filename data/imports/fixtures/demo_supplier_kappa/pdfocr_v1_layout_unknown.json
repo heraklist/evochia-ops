@@ -1,0 +1,20 @@
+{
+  "anchors_detected": [
+    "WRONG",
+    "ANCHOR"
+  ],
+  "table_pattern": "unknown_pattern",
+  "rows": [
+    {
+      "item_code": "DEM-PDF-002",
+      "desc": "Broken Layout Item",
+      "qty": "5",
+      "unit": "KG",
+      "net": "12.50",
+      "currency": "EUR",
+      "vat_rate": "0.13",
+      "in_stock": true,
+      "category": "seafood"
+    }
+  ]
+}

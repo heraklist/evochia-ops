@@ -1,0 +1,23 @@
+[
+  {
+    "offer_id": "OFF-MART-20260211-0001",
+    "product_id": "PROD-POTATO-STD",
+    "supplier": "TheMart",
+    "supplier_sku": "MART-158731",
+    "product_name": "Πατάτες Κύπρου",
+    "category": "Λαχανικά",
+    "tier": "standard",
+    "pack_size": 20,
+    "pack_unit": "kg",
+    "price": 12.34,
+    "price_per_base_unit": 0.617,
+    "currency": "EUR",
+    "vat_rate": 0.13,
+    "captured_at": "2026-02-11T07:00:00+02:00",
+    "valid_until": "2026-02-25T07:00:00+02:00",
+    "valid_from": null,
+    "valid_to": null,
+    "max_age_days": 14,
+    "in_stock": true
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "proposal_id": "INTAKE-20260212-171804",
+  "compliance_status": "PASS",
+  "placeholder_values": {
+    "COURSE_COUNT": 0,
+    "PRICE_PER_PERSON": "",
+    "MENU_BLOCKS": ""
+  },
+  "source_cost_total": 0.0
+}

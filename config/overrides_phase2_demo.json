@@ -1,0 +1,19 @@
+{
+  "overrides": [
+    {
+      "rule": "BAN",
+      "scope": "category",
+      "match": "Γαλακτοκομικά",
+      "supplier": "Supplier X",
+      "reason": "Demo BAN"
+    },
+    {
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "Γαλακτοκομικά",
+      "supplier": "Supplier Y",
+      "max_premium_pct": 5,
+      "reason": "Demo PREFER"
+    }
+  ]
+}

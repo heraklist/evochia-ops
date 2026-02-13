@@ -1,0 +1,9 @@
+{
+  "template_type": "A",
+  "service_type": "private_chef",
+  "event_style": "classic",
+  "template_hint": null,
+  "rule_fired": "RULE_A_DEFAULT",
+  "request": "skills\\evochia-ops\\data\\proposal_request_selector_a.json",
+  "timestamp": "2026-02-12T06:03:35.596066+00:00"
+}

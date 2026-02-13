@@ -1,0 +1,114 @@
+{
+  "total": 12,
+  "changed": 6,
+  "rows": [
+    {
+      "product_id": "P-FRZ-001",
+      "category": "frozen",
+      "on_supplier": "Alios",
+      "off_supplier": "TheMart",
+      "on_rule": "PREFER",
+      "off_rule": "LOWEST",
+      "changed": true
+    },
+    {
+      "product_id": "P-FRZ-002",
+      "category": "frozen",
+      "on_supplier": "Alios",
+      "off_supplier": "TheMart",
+      "on_rule": "PREFER",
+      "off_rule": "LOWEST",
+      "changed": true
+    },
+    {
+      "product_id": "P-FRZ-003",
+      "category": "frozen",
+      "on_supplier": "Alios",
+      "off_supplier": "Alios",
+      "on_rule": "PREFER",
+      "off_rule": "LOWEST",
+      "changed": true
+    },
+    {
+      "product_id": "P-SEA-001",
+      "category": "seafood",
+      "on_supplier": "Alios",
+      "off_supplier": "TheMart",
+      "on_rule": "PREFER",
+      "off_rule": "LOWEST",
+      "changed": true
+    },
+    {
+      "product_id": "P-SEA-002",
+      "category": "seafood",
+      "on_supplier": "Alios",
+      "off_supplier": "Alios",
+      "on_rule": "PREFER",
+      "off_rule": "LOWEST",
+      "changed": true
+    },
+    {
+      "product_id": "P-PRD-001",
+      "category": "produce",
+      "on_supplier": "Alios",
+      "off_supplier": "Alios",
+      "on_rule": "LOWEST",
+      "off_rule": "LOWEST",
+      "changed": false
+    },
+    {
+      "product_id": "P-PRD-002",
+      "category": "produce",
+      "on_supplier": "TheMart",
+      "off_supplier": "Alios",
+      "on_rule": "PREFER",
+      "off_rule": "LOWEST",
+      "changed": true
+    },
+    {
+      "product_id": "P-VEG-001",
+      "category": "vegetables",
+      "on_supplier": "Alios",
+      "off_supplier": "Alios",
+      "on_rule": "LOWEST",
+      "off_rule": "LOWEST",
+      "changed": false
+    },
+    {
+      "product_id": "P-VEG-002",
+      "category": "vegetables",
+      "on_supplier": "Alios",
+      "off_supplier": "Alios",
+      "on_rule": "LOWEST",
+      "off_rule": "LOWEST",
+      "changed": false
+    },
+    {
+      "product_id": "P-DRY-001",
+      "category": "dry",
+      "on_supplier": "Alios",
+      "off_supplier": "Alios",
+      "on_rule": "LOWEST",
+      "off_rule": "LOWEST",
+      "changed": false
+    },
+    {
+      "product_id": "P-PRD-003",
+      "category": "produce",
+      "on_supplier": "Alios",
+      "off_supplier": "Alios",
+      "on_rule": "LOWEST",
+      "off_rule": "LOWEST",
+      "changed": false
+    },
+    {
+      "product_id": "P-DRY-002",
+      "category": "condiments",
+      "on_supplier": "TheMart",
+      "off_supplier": "TheMart",
+      "on_rule": "LOWEST",
+      "off_rule": "LOWEST",
+      "changed": false
+    }
+  ]
+}

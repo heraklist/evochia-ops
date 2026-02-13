@@ -1,0 +1,9 @@
+{
+  "proposal_id": "PROP-2026-PCASE-A",
+  "template_type": "A",
+  "client": {"title": "κ.", "name": "Policy Case A", "phone": "6900000001", "email": "policy-a@example.com"},
+  "event": {"date": "2026-03-01", "guest_count": 60, "venue_name": "Athens Venue A", "description": "Multi-supplier policy case A", "service_style": "delivery"},
+  "menu": {"items": ["Tomato", "Tuna", "Edamame"], "item_quantities": [60, 60, 60], "course_categories": []},
+  "pricing": {"markup_pct": 300, "discount_pct": 0, "vat_rate": 0.13, "round_to": 0.5},
+  "terms": {"includes_list": ["disposables"], "excludes_list": [], "payment_method": "bank transfer"}
+}

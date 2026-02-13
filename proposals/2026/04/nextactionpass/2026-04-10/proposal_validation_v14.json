@@ -1,0 +1,27 @@
+{
+  "proposal_id": "INTAKE-20260213-075059",
+  "template_type": "B",
+  "required_fields": [
+    "client_title",
+    "client_name",
+    "guest_count",
+    "venue_name",
+    "event_description",
+    "service_style",
+    "menu_items",
+    "course_categories",
+    "vat_rate",
+    "includes_list",
+    "excludes_list",
+    "payment_method"
+  ],
+  "missing_fields": [],
+  "checks": {
+    "template_type_valid": true,
+    "required_fields_complete": true,
+    "pricing_formula_applied": true,
+    "placeholders_only": true,
+    "docx_rendered": false
+  },
+  "compliance_status": "PASS"
+}

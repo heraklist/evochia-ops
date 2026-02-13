@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "profile": "balanced",
+  "updated_at": "2026-02-12T09:18:00+02:00",
+  "policies": [
+    {
+      "id": "prefer-themart-produce-bal",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 8,
+      "selectors": {"service_type": ["DEL", "PC", "CAT"], "tier": ["standard"]}
+    },
+    {
+      "id": "prefer-alios-frozen-bal",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "frozen",
+      "supplier_id": "Alios",
+      "max_premium_pct": 10,
+      "selectors": {"service_type": ["DEL", "PC", "CAT"], "tier": ["standard"]}
+    },
+    {
+      "id": "prefer-alios-seafood-bal",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "seafood",
+      "supplier_id": "Alios",
+      "max_premium_pct": 10,
+      "selectors": {"service_type": ["DEL", "PC", "CAT"], "tier": ["standard"]}
+    }
+  ]
+}

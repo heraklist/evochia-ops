@@ -1,0 +1,38 @@
+{
+  "supplier_id": "themart",
+  "supplier_name": "TheMart",
+  "supplier_code": "TM",
+  "layout_version": "v1",
+  "price_is_net": true,
+  "currency": "EUR",
+  "vat_rate_default": 0.13,
+  "catalog_valid_days": 7,
+  "column_map": {
+    "supplier_sku": "κωδικός προϊόντος",
+    "product_name": "όνομα",
+    "raw_desc": "όνομα",
+    "price": "τιμή",
+    "net_price_raw": "τιμή",
+    "url": "link",
+    "diff_status": "κατάσταση_diff",
+    "sources": "πηγές",
+    "category": "category",
+    "pack_size": "pack_size",
+    "pack_unit": "pack_unit",
+    "currency": "currency",
+    "vat_rate": "vat_rate",
+    "in_stock": "in_stock"
+  },
+  "csv_rules": {
+    "price_text_parse": true,
+    "infer_pack_from_name": true,
+    "themart_assume_per_kg": true,
+    "default_category": "produce"
+  },
+  "defaults": {
+    "currency": "EUR",
+    "vat_rate": 0.13,
+    "tier": "standard",
+    "max_age_days": 7
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "recipe_id": "REC-POLICY-CASES-001",
+  "name": "Policy Cases Real Mix",
+  "tier": "standard",
+  "portions": 20,
+  "ingredients": [
+    {"line_id": "L1", "product_id": "PROD-DEMO-PRODUCE-TOMATO", "gross_qty": 1500, "unit": "g", "yield_pct": 100, "waste_pct": 0},
+    {"line_id": "L2", "product_id": "PROD-DEMO-SEAFOOD-TUNA", "gross_qty": 1200, "unit": "g", "yield_pct": 100, "waste_pct": 0},
+    {"line_id": "L3", "product_id": "PROD-DEMO-FROZEN-EDAMAME", "gross_qty": 1000, "unit": "g", "yield_pct": 100, "waste_pct": 0},
+    {"line_id": "L4", "product_id": "PROD-DEMO-DRY-SOY", "gross_qty": 500, "unit": "ml", "yield_pct": 100, "waste_pct": 0}
+  ]
+}

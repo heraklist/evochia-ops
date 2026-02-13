@@ -1,0 +1,10 @@
+{
+  "proposal_id": "PROP-SEL-C",
+  "service_type": "catering",
+  "event_style": "ombre_et_desir",
+  "client": {"name": "Client C"},
+  "event": {"date": "2026-03-03", "service_type": "catering", "event_style": "ombre_et_desir"},
+  "course_count": 1,
+  "price_per_person": "220€",
+  "menu_blocks": "<section>Ombre menu block</section>"
+}

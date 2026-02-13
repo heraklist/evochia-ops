@@ -1,0 +1,7 @@
+{
+  "table_pattern": "line_items_v1",
+  "anchors_detected": ["ΤΙΜΟΛΟΓΙΟ", "ΠΕΡΙΓΡΑΦΗ", "ΠΟΣΟΤ"],
+  "rows": [
+    {"item_code": "4F-001", "desc": "Μοτσαρέλα", "qty": "1", "unit": "ΚΙΛ", "net": "7.10", "vat_rate": 0.13, "category": "Γαλακτοκομικά"}
+  ]
+}

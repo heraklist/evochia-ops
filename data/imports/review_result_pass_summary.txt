@@ -1,0 +1,9 @@
+run_type=review
+input_needs_review=skills/evochia-ops/runs/20260211-2128/prices/needs_review_ocr.json
+csv_skeleton=C:\Users\herax\.openclaw\workspace\skills\evochia-ops\runs\20260211-2130\review\review_patch_skeleton.csv
+mapping_patch_template=C:\Users\herax\.openclaw\workspace\skills\evochia-ops\runs\20260211-2130\review\mapping_patch.template.json
+resolved=1
+remaining_needs_review=0
+next_action=DONE
+price_quotes=C:\Users\herax\.openclaw\workspace\skills\evochia-ops\runs\20260211-2130\review\price_quotes.json
+audit=C:\Users\herax\.openclaw\workspace\skills\evochia-ops\runs\20260211-2130\review\review_audit.json

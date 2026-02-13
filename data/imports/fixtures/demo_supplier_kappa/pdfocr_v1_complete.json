@@ -1,0 +1,21 @@
+{
+  "anchors_detected": [
+    "ΤΙΜΟΛΟΓΙΟ",
+    "ΠΕΡΙΓΡΑΦΗ",
+    "ΤΙΜΗ"
+  ],
+  "table_pattern": "line_items_v1",
+  "rows": [
+    {
+      "item_code": "DEM-PDF-001",
+      "desc": "Demo PDF Item",
+      "qty": "5",
+      "unit": "KG",
+      "net": "12.50",
+      "currency": "EUR",
+      "vat_rate": "0.13",
+      "in_stock": true,
+      "category": "seafood"
+    }
+  ]
+}

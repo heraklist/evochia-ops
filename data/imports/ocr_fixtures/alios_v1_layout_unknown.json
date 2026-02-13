@@ -1,0 +1,7 @@
+{
+  "table_pattern": "other_layout",
+  "anchors_detected": ["HEADER_ONLY"],
+  "rows": [
+    {"item_code": "ALI-002", "desc": "Πατάτες", "qty": "5", "unit": "ΚΙΛ", "net": "0.60", "vat_rate": 0.13, "category": "Λαχανικά"}
+  ]
+}

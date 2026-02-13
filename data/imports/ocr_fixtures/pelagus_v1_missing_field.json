@@ -1,0 +1,7 @@
+{
+  "table_pattern": "line_items_v1",
+  "anchors_detected": ["ΤΙΜΟΛΟΓΙΟ", "ΕΙΔΟΣ", "ΠΟΣΟΤ"],
+  "rows": [
+    {"item_code": "PEL-002", "desc": "Κρέμα 35%", "qty": "2", "unit": "ΤΕΜ", "net": "", "vat_rate": 0.13, "category": "Γαλακτοκομικά"}
+  ]
+}

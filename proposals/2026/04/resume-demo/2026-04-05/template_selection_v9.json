@@ -1,0 +1,9 @@
+{
+  "template_type": "B",
+  "service_type": "delivery",
+  "event_style": "finger",
+  "template_hint": null,
+  "rule_fired": "RULE_B_DELIVERY_FINGER",
+  "request": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-175230\\intake\\proposal_request.json",
+  "timestamp": "2026-02-12T15:52:31.802303+00:00"
+}

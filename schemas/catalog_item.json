@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CatalogItem",
+  "type": "object",
+  "required": ["product_id", "canonical_name", "category", "tier", "base_unit"],
+  "properties": {
+    "product_id": {"type": "string"},
+    "canonical_name": {"type": "string"},
+    "category": {"type": "string"},
+    "subcategory": {"type": "string"},
+    "tier": {"type": "string", "enum": ["standard", "premium"]},
+    "base_unit": {"type": "string", "enum": ["kg", "lt", "pcs"]},
+    "aliases": {"type": "array", "items": {"type": "string"}},
+    "perishable": {"type": "boolean"}
+  }
+}

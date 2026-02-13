@@ -1,0 +1,104 @@
+{
+  "recipe_id": "REC-ALIOS-REAL-TOP12",
+  "name": "Alios Real Top12 Basket",
+  "tier": "standard",
+  "portions": 10,
+  "ingredients": [
+    {
+      "line_id": "L1",
+      "product_id": "PROD-ALIOS-REAL-001",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L2",
+      "product_id": "PROD-ALIOS-REAL-002",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L3",
+      "product_id": "PROD-ALIOS-REAL-003",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L4",
+      "product_id": "PROD-ALIOS-REAL-004",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L5",
+      "product_id": "PROD-ALIOS-REAL-005",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L6",
+      "product_id": "PROD-ALIOS-REAL-006",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L7",
+      "product_id": "PROD-ALIOS-REAL-007",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L8",
+      "product_id": "PROD-ALIOS-REAL-008",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L9",
+      "product_id": "PROD-ALIOS-REAL-009",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L10",
+      "product_id": "PROD-ALIOS-REAL-010",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L11",
+      "product_id": "PROD-ALIOS-REAL-011",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L12",
+      "product_id": "PROD-ALIOS-REAL-012",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    }
+  ]
+}

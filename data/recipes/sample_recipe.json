@@ -1,0 +1,16 @@
+{
+  "recipe_id": "REC-001",
+  "name": "Sample Recipe",
+  "tier": "standard",
+  "portions": 10,
+  "ingredients": [
+    {
+      "line_id": "L1",
+      "product_id": "PROD-POTATO-STD",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    }
+  ]
+}

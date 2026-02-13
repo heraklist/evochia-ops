@@ -1,0 +1,28 @@
+{
+  "supplier_id": "pelagus",
+  "supplier_name": "Pelagus",
+  "supplier_code": "PEL",
+  "layout_version": "v1",
+  "layout_rules": {
+    "required_anchors": ["ΤΙΜΟΛΟΓΙΟ", "ΕΙΔΟΣ", "ΠΟΣΟΤ"],
+    "required_table_pattern": "line_items_v1"
+  },
+  "column_map": {
+    "supplier_sku": "item_code",
+    "product_name": "desc",
+    "qty": "qty",
+    "unit": "unit",
+    "net": "net",
+    "vat_rate": "vat_rate"
+  },
+  "unit_map": {
+    "ΚΙΛ": "kg",
+    "ΤΕΜ": "pcs"
+  },
+  "defaults": {
+    "currency": "EUR",
+    "vat_rate": 0.13,
+    "tier": "standard",
+    "max_age_days": 14
+  }
+}

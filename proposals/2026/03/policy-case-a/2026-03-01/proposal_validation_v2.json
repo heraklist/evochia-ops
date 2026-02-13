@@ -1,0 +1,24 @@
+{
+  "proposal_id": "PROP-2026-PCASE-A",
+  "template_type": "A",
+  "required_fields": [
+    "client_title",
+    "client_name",
+    "event_date",
+    "guest_count",
+    "menu_items",
+    "item_quantities",
+    "vat_rate",
+    "includes_list",
+    "payment_method"
+  ],
+  "missing_fields": [],
+  "checks": {
+    "template_type_valid": true,
+    "required_fields_complete": true,
+    "pricing_formula_applied": true,
+    "placeholders_only": true,
+    "docx_rendered": false
+  },
+  "compliance_status": "PASS"
+}

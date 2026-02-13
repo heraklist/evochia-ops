@@ -1,0 +1,168 @@
+{
+  "recipe_id": "REC-ALIOS-TOP20-DEMO",
+  "name": "Alios Top20 Demo Basket Recipe",
+  "tier": "standard",
+  "portions": 10,
+  "ingredients": [
+    {
+      "line_id": "L1",
+      "product_id": "PROD-ALIOS-DEMO-001",
+      "gross_qty": 1,
+      "unit": "pcs",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L2",
+      "product_id": "PROD-ALIOS-DEMO-002",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L3",
+      "product_id": "PROD-ALIOS-DEMO-003",
+      "gross_qty": 100,
+      "unit": "ml",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L4",
+      "product_id": "PROD-ALIOS-DEMO-004",
+      "gross_qty": 100,
+      "unit": "ml",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L5",
+      "product_id": "PROD-ALIOS-DEMO-005",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L6",
+      "product_id": "PROD-ALIOS-DEMO-006",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L7",
+      "product_id": "PROD-ALIOS-DEMO-007",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L8",
+      "product_id": "PROD-ALIOS-DEMO-008",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L9",
+      "product_id": "PROD-ALIOS-DEMO-009",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L10",
+      "product_id": "PROD-ALIOS-DEMO-010",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L11",
+      "product_id": "PROD-ALIOS-DEMO-011",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L12",
+      "product_id": "PROD-ALIOS-DEMO-012",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L13",
+      "product_id": "PROD-ALIOS-DEMO-013",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L14",
+      "product_id": "PROD-ALIOS-DEMO-014",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L15",
+      "product_id": "PROD-ALIOS-DEMO-015",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L16",
+      "product_id": "PROD-ALIOS-DEMO-016",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L17",
+      "product_id": "PROD-ALIOS-DEMO-017",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L18",
+      "product_id": "PROD-ALIOS-DEMO-018",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L19",
+      "product_id": "PROD-ALIOS-DEMO-019",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L20",
+      "product_id": "PROD-ALIOS-DEMO-020",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    }
+  ]
+}

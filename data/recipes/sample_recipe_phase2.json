@@ -1,0 +1,24 @@
+{
+  "recipe_id": "REC-PH2-001",
+  "name": "Mozzarella and Cream Test",
+  "tier": "standard",
+  "portions": 10,
+  "ingredients": [
+    {
+      "line_id": "L1",
+      "product_id": "PROD-MOZZARELLA-STD",
+      "gross_qty": 1000,
+      "unit": "g",
+      "yield_pct": 100,
+      "waste_pct": 0
+    },
+    {
+      "line_id": "L2",
+      "product_id": "PROD-CREAM35-STD",
+      "gross_qty": 1000,
+      "unit": "ml",
+      "yield_pct": 100,
+      "waste_pct": 0
+    }
+  ]
+}

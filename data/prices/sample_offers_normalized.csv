@@ -1,0 +1,2 @@
+﻿offer_id,supplier,supplier_sku,product_name,category,tier,pack_size,pack_unit,price,price_per_base_unit,currency,vat_rate,captured_at,valid_until,max_age_days,in_stock,source
+OFF-MART-20260211-0001,TheMart,MART-158731,Πατάτες Κύπρου,Λαχανικά,standard,20,kg,12.34,0.617,EUR,0.13,2026-02-11T07:00:00+02:00,2026-02-25T07:00:00+02:00,14,True,themart.gr

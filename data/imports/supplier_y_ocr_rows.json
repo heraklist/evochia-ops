@@ -1,0 +1,26 @@
+{
+  "rows": [
+    {
+      "supplier_sku": "SY-101",
+      "product_name": "Mozzarella 1kg",
+      "category": "Γαλακτοκομικά",
+      "pack_size": 1,
+      "pack_unit": "kg",
+      "price": 6.90,
+      "currency": "EUR",
+      "vat_rate": 0.13,
+      "in_stock": true
+    },
+    {
+      "supplier_sku": "SY-102",
+      "product_name": "Cream 35% 1lt",
+      "category": "Γαλακτοκομικά",
+      "pack_size": 1,
+      "pack_unit": "lt",
+      "price": 3.55,
+      "currency": "EUR",
+      "vat_rate": 0.13,
+      "in_stock": true
+    }
+  ]
+}

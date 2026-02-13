@@ -1,0 +1,23 @@
+[
+  {
+    "offer_id": "OFF-4FSA-20260211-0001",
+    "product_id": "PROD-POTATO-STD",
+    "supplier": "4FSA",
+    "supplier_sku": "4F-002",
+    "product_name": "Νερό",
+    "category": "",
+    "tier": "standard",
+    "pack_size": 1.0,
+    "pack_unit": "kg",
+    "price": 1.5,
+    "price_per_base_unit": 1.5,
+    "currency": "EUR",
+    "vat_rate": 0.13,
+    "captured_at": null,
+    "valid_until": null,
+    "valid_from": null,
+    "valid_to": null,
+    "max_age_days": 14,
+    "in_stock": true
+  }
+]

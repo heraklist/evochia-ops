@@ -1,0 +1,182 @@
+[
+  {
+    "offer_id": "OFF-ALI-20260211-0001",
+    "product_name": "Nori Sheets",
+    "supplier": "Alios",
+    "supplier_sku": "D0001",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0002",
+    "product_name": "Sushi Rice",
+    "supplier": "Alios",
+    "supplier_sku": "D0002",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0003",
+    "product_name": "Rice Vinegar",
+    "supplier": "Alios",
+    "supplier_sku": "D0003",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0004",
+    "product_name": "Soy Sauce",
+    "supplier": "Alios",
+    "supplier_sku": "D0004",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0005",
+    "product_name": "Wasabi Paste",
+    "supplier": "Alios",
+    "supplier_sku": "D0005",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0006",
+    "product_name": "Pickled Ginger",
+    "supplier": "Alios",
+    "supplier_sku": "D0006",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0007",
+    "product_name": "Sesame Seeds White",
+    "supplier": "Alios",
+    "supplier_sku": "D0007",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0008",
+    "product_name": "Sesame Seeds Black",
+    "supplier": "Alios",
+    "supplier_sku": "D0008",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0009",
+    "product_name": "Panko Breadcrumbs",
+    "supplier": "Alios",
+    "supplier_sku": "D0009",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0010",
+    "product_name": "Tempura Batter Mix",
+    "supplier": "Alios",
+    "supplier_sku": "D0010",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0031",
+    "product_name": "Salmon Fillet (Frozen)",
+    "supplier": "Alios",
+    "supplier_sku": "F0001",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0032",
+    "product_name": "Tuna Saku Block (Frozen)",
+    "supplier": "Alios",
+    "supplier_sku": "F0002",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0033",
+    "product_name": "Ebi Shrimp (Frozen)",
+    "supplier": "Alios",
+    "supplier_sku": "F0003",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0034",
+    "product_name": "Octopus Slices (Frozen)",
+    "supplier": "Alios",
+    "supplier_sku": "F0004",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0035",
+    "product_name": "Surimi Sticks (Frozen)",
+    "supplier": "Alios",
+    "supplier_sku": "F0005",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0036",
+    "product_name": "Gyoza (Frozen)",
+    "supplier": "Alios",
+    "supplier_sku": "F0006",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0037",
+    "product_name": "Chicken Karaage (Frozen)",
+    "supplier": "Alios",
+    "supplier_sku": "F0007",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0038",
+    "product_name": "Vegetable Spring Rolls (Frozen)",
+    "supplier": "Alios",
+    "supplier_sku": "F0008",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0039",
+    "product_name": "Tempura Shrimp (Frozen)",
+    "supplier": "Alios",
+    "supplier_sku": "F0009",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  },
+  {
+    "offer_id": "OFF-ALI-20260211-0040",
+    "product_name": "Salmon Roe (Frozen)",
+    "supplier": "Alios",
+    "supplier_sku": "F0010",
+    "reason": "unmapped",
+    "suggestions": [],
+    "action": "BLOCK_UNTIL_MAPPED"
+  }
+]

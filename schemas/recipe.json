@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Recipe",
+  "type": "object",
+  "required": ["recipe_id", "name", "tier", "portions", "ingredients"],
+  "properties": {
+    "recipe_id": {"type": "string"},
+    "name": {"type": "string"},
+    "tier": {"type": "string", "enum": ["standard", "premium"]},
+    "portions": {"type": "number"},
+    "ingredients": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["product_id", "gross_qty", "unit"],
+        "properties": {
+          "line_id": {"type": "string"},
+          "product_id": {"type": "string"},
+          "gross_qty": {"type": "number"},
+          "unit": {"type": "string"},
+          "yield_pct": {"type": "number"},
+          "waste_pct": {"type": "number"}
+        }
+      }
+    }
+  }
+}

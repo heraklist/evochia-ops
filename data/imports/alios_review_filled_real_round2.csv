@@ -1,0 +1,21 @@
+needs_review_id,supplier_sku,raw_desc,qty,unit_raw,net_price,issue_code,suggestion_1,suggestion_2,suggestion_3,set_product_id,set_unit,set_pack_size,set_pack_unit,persist_mode,reason
+OFF-ALI-20260212-0011,D0011,Kewpie Mayo,5.0,kg,10.44,unmapped,,,,PROD-ALI-ROUND1-D0011,,5.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0012,D0012,Sriracha Sauce,500.0,g,17.9,unmapped,,,,PROD-ALI-ROUND1-D0012,,500.0,g,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0013,D0013,Miso Paste,1.0,kg,8.69,unmapped,,,,PROD-ALI-ROUND1-D0013,,1.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0014,D0014,Ramen Noodles,1.0,kg,26.19,unmapped,,,,PROD-ALI-ROUND1-D0014,,1.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0015,D0015,Udon Noodles,1.0,kg,13.18,unmapped,,,,PROD-ALI-ROUND1-D0015,,1.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0016,D0016,Soba Noodles,1.0,kg,21.25,unmapped,,,,PROD-ALI-ROUND1-D0016,,1.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0017,D0017,Seaweed Salad Dry,1.0,kg,14.23,unmapped,,,,PROD-ALI-ROUND1-D0017,,1.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0018,D0018,Tonkatsu Sauce,5.0,kg,18.4,unmapped,,,,PROD-ALI-ROUND1-D0018,,5.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0019,D0019,Mirin,1.0,kg,21.83,unmapped,,,,PROD-ALI-ROUND1-D0019,,1.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0020,D0020,Sake Cooking,1.0,kg,11.7,unmapped,,,,PROD-ALI-ROUND1-D0020,,1.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0021,D0021,Ponzu,1.0,kg,27.39,unmapped,,,,PROD-ALI-ROUND1-D0021,,1.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0022,D0022,Teriyaki Sauce,5.0,kg,23.5,unmapped,,,,PROD-ALI-ROUND1-D0022,,5.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0023,D0023,Chili Oil,5.0,kg,26.79,unmapped,,,,PROD-ALI-ROUND1-D0023,,5.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0024,D0024,Bamboo Shoots,1.0,kg,25.9,unmapped,,,,PROD-ALI-ROUND1-D0024,,1.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0025,D0025,Edamame (Dry Snack),1.0,kg,19.96,unmapped,,,,PROD-ALI-ROUND1-D0025,,1.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0026,D0026,Furikake,1.0,kg,26.44,unmapped,,,,PROD-ALI-ROUND1-D0026,,1.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0027,D0027,Matcha Powder,6.0,pcs,9.77,unmapped,,,,PROD-ALI-ROUND1-D0027,,6.0,pcs,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0028,D0028,Coconut Milk,1.0,kg,11.92,unmapped,,,,PROD-ALI-ROUND1-D0028,,1.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0029,D0029,Curry Paste,1.0,kg,8.9,unmapped,,,,PROD-ALI-ROUND1-D0029,,1.0,kg,sku_map,alios_real_round1_round2
+OFF-ALI-20260212-0030,D0030,Gyoza Wrappers (Dry),5.0,kg,14.51,unmapped,,,,PROD-ALI-ROUND1-D0030,,5.0,kg,sku_map,alios_real_round1_round2

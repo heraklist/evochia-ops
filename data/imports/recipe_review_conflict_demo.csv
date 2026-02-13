@@ -1,0 +1,2 @@
+recipe_id,line_id,raw_ingredient,qty,unit,suggestion_1,suggestion_2,suggestion_3,set_product_id,persist_mode,reason
+RECIPE-001-nigiri-salmon,ING-001-rr-ing-a,rr_ing_a,180.0,g,,,,PROD-CONFLICT-B,catalog_alias,conflict-demo

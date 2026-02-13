@@ -1,0 +1,219 @@
+{
+  "items": [
+    {
+      "product_id": "PROD-POTATO-STD",
+      "canonical_name": "Πατάτες",
+      "category": "Λαχανικά",
+      "subcategory": "Πατάτες",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "πατάτες",
+        "patates kyprou",
+        "πατάτες κύπρου"
+      ],
+      "perishable": true
+    },
+    {
+      "product_id": "PROD-MOZZARELLA-STD",
+      "canonical_name": "Mozzarella",
+      "category": "Γαλακτοκομικά",
+      "subcategory": "Τυριά",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "mozzarella 1kg",
+        "mozzarella"
+      ],
+      "perishable": true
+    },
+    {
+      "product_id": "PROD-CREAM35-STD",
+      "canonical_name": "Cream 35%",
+      "category": "Γαλακτοκομικά",
+      "subcategory": "Κρέμες",
+      "tier": "standard",
+      "base_unit": "lt",
+      "aliases": [
+        "cream 35% 1lt",
+        "cream 35%"
+      ],
+      "perishable": true
+    },
+    {
+      "product_id": "PROD-ONION-RED-STD",
+      "canonical_name": "Κρεμμύδια κόκκινα",
+      "category": "Λαχανικά",
+      "subcategory": "Κρεμμύδια κόκκινα",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "κρεμμύδια κόκκινα",
+        "κρεμμύδια κόκκινα ξερά",
+        "red onion"
+      ],
+      "perishable": true
+    },
+    {
+      "product_id": "PROD-ONION-YELLOW-STD",
+      "canonical_name": "Κρεμμύδια ξανθά",
+      "category": "Λαχανικά",
+      "subcategory": "Κρεμμύδια ξανθά",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "κρεμμύδια ξανθά",
+        "κρεμμύδια ξερά",
+        "yellow onion"
+      ],
+      "perishable": true
+    },
+    {
+      "product_id": "PROD-TOMATO-STD",
+      "canonical_name": "Ντομάτες",
+      "category": "Λαχανικά",
+      "subcategory": "Ντομάτες",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "ντομάτες",
+        "ντομάτες εγχώριες",
+        "tomato"
+      ],
+      "perishable": true
+    },
+    {
+      "product_id": "PROD-LEMON-STD",
+      "canonical_name": "Λεμόνια",
+      "category": "Λαχανικά",
+      "subcategory": "Λεμόνια",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "λεμόνια",
+        "lemon"
+      ],
+      "perishable": true
+    },
+    {
+      "product_id": "PROD-CUCUMBER-STD",
+      "canonical_name": "Αγγούρια",
+      "category": "Λαχανικά",
+      "subcategory": "Αγγούρια",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "αγγούρια",
+        "αγγουράκια",
+        "cucumber"
+      ],
+      "perishable": true
+    },
+    {
+      "product_id": "PROD-PEPPER-GREEN-STD",
+      "canonical_name": "Πιπεριές πράσινες",
+      "category": "Λαχανικά",
+      "subcategory": "Πιπεριές πράσινες",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "πιπεριές πράσινες",
+        "green pepper"
+      ],
+      "perishable": true
+    },
+    {
+      "product_id": "PROD-PEPPER-RED-STD",
+      "canonical_name": "Πιπεριές κόκκινες",
+      "category": "Λαχανικά",
+      "subcategory": "Πιπεριές κόκκινες",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "πιπεριές φλωρίνης",
+        "πιπεριές κόκκινες",
+        "red pepper"
+      ],
+      "perishable": true
+    },
+    {
+      "product_id": "PROD-ZUCCHINI-STD",
+      "canonical_name": "Κολοκύθια",
+      "category": "Λαχανικά",
+      "subcategory": "Κολοκύθια",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "κολοκύθια",
+        "zucchini"
+      ],
+      "perishable": true
+    },
+    {
+      "product_id": "PROD-EGGPLANT-STD",
+      "canonical_name": "Μελιτζάνες",
+      "category": "Λαχανικά",
+      "subcategory": "Μελιτζάνες",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "μελιτζάνες",
+        "eggplant"
+      ],
+      "perishable": true
+    },
+    {
+      "product_id": "PROD-BROCCOLI-STD",
+      "canonical_name": "Μπρόκολο",
+      "category": "Λαχανικά",
+      "subcategory": "Μπρόκολο",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "μπρόκολο",
+        "broccoli"
+      ],
+      "perishable": true
+    },
+    {
+      "product_id": "PROD-CABBAGE-STD",
+      "canonical_name": "Λάχανο",
+      "category": "Λαχανικά",
+      "subcategory": "Λάχανο",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "λάχανο",
+        "λάχανο άσπρο",
+        "cabbage"
+      ],
+      "perishable": true
+    },
+    {
+      "product_id": "PROD-SPINACH-STD",
+      "canonical_name": "Σπανάκι",
+      "category": "Λαχανικά",
+      "subcategory": "Σπανάκι",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "σπανάκι",
+        "spinach"
+      ],
+      "perishable": true
+    },
+    {
+      "product_id": "PROD-PARSLEY-STD",
+      "canonical_name": "Μαϊντανός",
+      "category": "Λαχανικά",
+      "subcategory": "Μαϊντανός",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "μαϊντανός",
+        "parsley"
+      ],
+      "perishable": true
+    }
+  ]
+}

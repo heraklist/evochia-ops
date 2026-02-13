@@ -1,0 +1,8 @@
+{
+  "template_type": "C",
+  "placeholders": [
+    "COURSE_COUNT",
+    "PRICE_PER_PERSON",
+    "MENU_BLOCKS"
+  ]
+}

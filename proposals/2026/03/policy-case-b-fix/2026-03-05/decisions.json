@@ -1,0 +1,2658 @@
+[
+  {
+    "product_id": "PROD-CUCUMBER-STD",
+    "chosen_offer_id": "OFF-TM-20260212-0009",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0009",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      },
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0010",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0009",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      },
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0010",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-themart-produce",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "produce",
+          "supplier_id": "TheMart",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0010",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs",
+        "diff_pct": null
+      }
+    ],
+    "override_ref": {
+      "id": "prefer-themart-produce",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-TM-20260212-0009",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.166721+00:00"
+  },
+  {
+    "product_id": "PROD-ZUCCHINI-STD",
+    "chosen_offer_id": "OFF-TM-20260212-0061",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0061",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0061",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-themart-produce",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "produce",
+          "supplier_id": "TheMart",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-themart-produce",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-TM-20260212-0061",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.166721+00:00"
+  },
+  {
+    "product_id": "PROD-ONION-RED-STD",
+    "chosen_offer_id": "OFF-TM-20260212-0069",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0069",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0069",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-themart-produce",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "produce",
+          "supplier_id": "TheMart",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-themart-produce",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-TM-20260212-0069",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.166721+00:00"
+  },
+  {
+    "product_id": "PROD-ONION-YELLOW-STD",
+    "chosen_offer_id": "OFF-TM-20260212-0073",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0073",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0073",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-themart-produce",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "produce",
+          "supplier_id": "TheMart",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-themart-produce",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-TM-20260212-0073",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.166721+00:00"
+  },
+  {
+    "product_id": "PROD-CABBAGE-STD",
+    "chosen_offer_id": "OFF-TM-20260212-0078",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0078",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0078",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-themart-produce",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "produce",
+          "supplier_id": "TheMart",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-themart-produce",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-TM-20260212-0078",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.166721+00:00"
+  },
+  {
+    "product_id": "PROD-LEMON-STD",
+    "chosen_offer_id": "OFF-TM-20260212-0082",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0082",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0082",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-themart-produce",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "produce",
+          "supplier_id": "TheMart",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-themart-produce",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-TM-20260212-0082",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.166721+00:00"
+  },
+  {
+    "product_id": "PROD-PARSLEY-STD",
+    "chosen_offer_id": "OFF-TM-20260212-0118",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0118",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0118",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-themart-produce",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "produce",
+          "supplier_id": "TheMart",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-themart-produce",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-TM-20260212-0118",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.166721+00:00"
+  },
+  {
+    "product_id": "PROD-EGGPLANT-STD",
+    "chosen_offer_id": "OFF-TM-20260212-0120",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0120",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0120",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-themart-produce",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "produce",
+          "supplier_id": "TheMart",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-themart-produce",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-TM-20260212-0120",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.166721+00:00"
+  },
+  {
+    "product_id": "PROD-BROCCOLI-STD",
+    "chosen_offer_id": "OFF-TM-20260212-0126",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0126",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0126",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-themart-produce",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "produce",
+          "supplier_id": "TheMart",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-themart-produce",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-TM-20260212-0126",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.166721+00:00"
+  },
+  {
+    "product_id": "PROD-TOMATO-STD",
+    "chosen_offer_id": "OFF-TM-20260212-0129",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0129",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      },
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0130",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      },
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0131",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0129",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      },
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0130",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      },
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0131",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-themart-produce",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "produce",
+          "supplier_id": "TheMart",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0130",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs",
+        "diff_pct": null
+      },
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0131",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs",
+        "diff_pct": null
+      }
+    ],
+    "override_ref": {
+      "id": "prefer-themart-produce",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-TM-20260212-0129",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.166721+00:00"
+  },
+  {
+    "product_id": "PROD-POTATO-STD",
+    "chosen_offer_id": "OFF-TM-20260212-0138",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0138",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      },
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0140",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      },
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0141",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      },
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0146",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0138",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      },
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0140",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      },
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0141",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      },
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0146",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-themart-produce",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "produce",
+          "supplier_id": "TheMart",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0140",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs",
+        "diff_pct": null
+      },
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0141",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs",
+        "diff_pct": null
+      },
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0146",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs",
+        "diff_pct": null
+      }
+    ],
+    "override_ref": {
+      "id": "prefer-themart-produce",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-TM-20260212-0138",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.166721+00:00"
+  },
+  {
+    "product_id": "PROD-PEPPER-GREEN-STD",
+    "chosen_offer_id": "OFF-TM-20260212-0156",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0156",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0156",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-themart-produce",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "produce",
+          "supplier_id": "TheMart",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-themart-produce",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-TM-20260212-0156",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-PEPPER-RED-STD",
+    "chosen_offer_id": "OFF-TM-20260212-0157",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0157",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0157",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-themart-produce",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "produce",
+          "supplier_id": "TheMart",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-themart-produce",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-TM-20260212-0157",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-SPINACH-STD",
+    "chosen_offer_id": "OFF-TM-20260212-0194",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0194",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-20260212-0194",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.759956+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-themart-produce",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "produce",
+          "supplier_id": "TheMart",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-themart-produce",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-TM-20260212-0194",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-001",
+    "chosen_offer_id": "OFF-ALI-20260212-0006",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0006",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0006",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0006",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-002",
+    "chosen_offer_id": "OFF-ALI-20260212-0007",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0007",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0007",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0007",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-003",
+    "chosen_offer_id": "OFF-ALI-20260212-0008",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0008",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0008",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0008",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-004",
+    "chosen_offer_id": "OFF-ALI-20260212-0009",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0009",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0009",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0009",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-005",
+    "chosen_offer_id": "OFF-ALI-20260212-0010",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0010",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0010",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0010",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-006",
+    "chosen_offer_id": "OFF-ALI-20260212-0011",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0011",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0011",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0011",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-007",
+    "chosen_offer_id": "OFF-ALI-20260212-0012",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0012",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0012",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0012",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-008",
+    "chosen_offer_id": "OFF-ALI-20260212-0013",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0013",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0013",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0013",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-009",
+    "chosen_offer_id": "OFF-ALI-20260212-0014",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0014",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0014",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0014",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-010",
+    "chosen_offer_id": "OFF-ALI-20260212-0015",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0015",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0015",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0015",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-011",
+    "chosen_offer_id": "OFF-ALI-20260212-0016",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0016",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0016",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0016",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-012",
+    "chosen_offer_id": "OFF-ALI-20260212-0017",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0017",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0017",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0017",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-013",
+    "chosen_offer_id": "OFF-ALI-20260212-0018",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0018",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0018",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-alios-frozen",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "frozen",
+          "supplier_id": "Alios",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-alios-frozen",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "frozen",
+      "supplier_id": "Alios",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0018",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-014",
+    "chosen_offer_id": "OFF-ALI-20260212-0019",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0019",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0019",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-alios-frozen",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "frozen",
+          "supplier_id": "Alios",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-alios-frozen",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "frozen",
+      "supplier_id": "Alios",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0019",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-015",
+    "chosen_offer_id": "OFF-ALI-20260212-0020",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0020",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0020",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-alios-frozen",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "frozen",
+          "supplier_id": "Alios",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-alios-frozen",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "frozen",
+      "supplier_id": "Alios",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0020",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-016",
+    "chosen_offer_id": "OFF-ALI-20260212-0021",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0021",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0021",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-alios-frozen",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "frozen",
+          "supplier_id": "Alios",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-alios-frozen",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "frozen",
+      "supplier_id": "Alios",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0021",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-017",
+    "chosen_offer_id": "OFF-ALI-20260212-0022",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0022",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0022",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-alios-frozen",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "frozen",
+          "supplier_id": "Alios",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-alios-frozen",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "frozen",
+      "supplier_id": "Alios",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0022",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-018",
+    "chosen_offer_id": "OFF-ALI-20260212-0023",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0023",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0023",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-alios-frozen",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "frozen",
+          "supplier_id": "Alios",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-alios-frozen",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "frozen",
+      "supplier_id": "Alios",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0023",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-019",
+    "chosen_offer_id": "OFF-ALI-20260212-0024",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0024",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0024",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-alios-frozen",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "frozen",
+          "supplier_id": "Alios",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-alios-frozen",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "frozen",
+      "supplier_id": "Alios",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0024",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-020",
+    "chosen_offer_id": "OFF-ALI-20260212-0025",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0025",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0025",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-alios-frozen",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "frozen",
+          "supplier_id": "Alios",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-alios-frozen",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "frozen",
+      "supplier_id": "Alios",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0025",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-FULL-026",
+    "chosen_offer_id": "OFF-ALI-20260212-0026",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0026",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0026",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-alios-frozen",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "frozen",
+          "supplier_id": "Alios",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-alios-frozen",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "frozen",
+      "supplier_id": "Alios",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0026",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-FULL-027",
+    "chosen_offer_id": "OFF-ALI-20260212-0027",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0027",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0027",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0027",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-FULL-028",
+    "chosen_offer_id": "OFF-ALI-20260212-0028",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0028",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0028",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0028",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-FULL-029",
+    "chosen_offer_id": "OFF-ALI-20260212-0029",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0029",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0029",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0029",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-FULL-030",
+    "chosen_offer_id": "OFF-ALI-20260212-0030",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0030",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0030",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0030",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-FULL-031",
+    "chosen_offer_id": "OFF-ALI-20260212-0031",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0031",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0031",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0031",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-FULL-032",
+    "chosen_offer_id": "OFF-ALI-20260212-0032",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0032",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0032",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0032",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-FULL-033",
+    "chosen_offer_id": "OFF-ALI-20260212-0033",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0033",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0033",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [],
+    "alternatives": [],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0033",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-FULL-034",
+    "chosen_offer_id": "OFF-ALI-20260212-0034",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0034",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0034",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-alios-frozen",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "frozen",
+          "supplier_id": "Alios",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-alios-frozen",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "frozen",
+      "supplier_id": "Alios",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0034",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  },
+  {
+    "product_id": "PROD-ALIOS-REAL-FULL-035",
+    "chosen_offer_id": "OFF-ALI-20260212-0035",
+    "selected_supplier": "Alios",
+    "decision_key": "supplier_sku",
+    "rule_applied": "PREFER",
+    "candidates": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0035",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "candidates_considered": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-20260212-0035",
+        "price_per_base_unit": 0.0,
+        "captured_at": "2026-02-12T05:33:34.857595+00:00",
+        "price_unit": "pcs"
+      }
+    ],
+    "policy_hits": [
+      {
+        "rule": "PREFER",
+        "policy": {
+          "id": "prefer-alios-frozen",
+          "rule": "PREFER",
+          "scope": "category",
+          "match": "frozen",
+          "supplier_id": "Alios",
+          "max_premium_pct": 20,
+          "selectors": {
+            "service_type": [
+              "DEL",
+              "PC",
+              "CAT"
+            ],
+            "tier": [
+              "standard"
+            ]
+          }
+        }
+      }
+    ],
+    "alternatives": [],
+    "override_ref": {
+      "id": "prefer-alios-frozen",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "frozen",
+      "supplier_id": "Alios",
+      "max_premium_pct": 20,
+      "selectors": {
+        "service_type": [
+          "DEL",
+          "PC",
+          "CAT"
+        ],
+        "tier": [
+          "standard"
+        ]
+      }
+    },
+    "reason_codes": [
+      "PREFER_APPLIED"
+    ],
+    "lowest_global_offer_id": "OFF-ALI-20260212-0035",
+    "lowest_global_price_per_base_unit": 0.0,
+    "chosen_price_per_base_unit": 0.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T07:20:02.167720+00:00"
+  }
+]

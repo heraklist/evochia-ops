@@ -1,0 +1,9 @@
+{
+  "proposal_id": "PROP-TYPEC-0001",
+  "compliance_status": "PASS",
+  "placeholder_values": {
+    "COURSE_COUNT": 3,
+    "PRICE_PER_PERSON": "150€",
+    "MENU_BLOCKS": "<section>Course 1</section><section>Course 2</section><section>Course 3</section>"
+  }
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "product_id": "PROD-DEMO-PRODUCE-TOMATO",
+    "chosen_offer_id": "OFF-ALI-DEMO-001",
+    "selected_supplier": "Alios",
+    "decision_key": "desc_pack_exact",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-DEMO-001",
+        "price_per_base_unit": 2.0,
+        "captured_at": "2026-02-12T05:30:00+00:00",
+        "price_unit": "kg"
+      },
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-DEMO-001",
+        "price_per_base_unit": 1.8,
+        "captured_at": "2026-02-12T05:30:00+00:00",
+        "price_unit": "kg"
+      }
+    ],
+    "alternatives": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-DEMO-001",
+        "price_per_base_unit": 2.0,
+        "captured_at": "2026-02-12T05:30:00+00:00",
+        "price_unit": "kg",
+        "diff_pct": 11.11
+      }
+    ],
+    "override_ref": null,
+    "reason_codes": [
+      "NO_SKU_KEY"
+    ],
+    "lowest_global_offer_id": "OFF-ALI-DEMO-001",
+    "lowest_global_price_per_base_unit": 1.8,
+    "chosen_price_per_base_unit": 1.8,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T06:03:38.159034+00:00"
+  },
+  {
+    "product_id": "PROD-DEMO-SEAFOOD-TUNA",
+    "chosen_offer_id": "OFF-TM-DEMO-002",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-DEMO-002",
+        "price_per_base_unit": 13.5,
+        "captured_at": "2026-02-12T05:30:00+00:00",
+        "price_unit": "kg"
+      },
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-DEMO-002",
+        "price_per_base_unit": 14.0,
+        "captured_at": "2026-02-12T05:30:00+00:00",
+        "price_unit": "kg"
+      }
+    ],
+    "alternatives": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-DEMO-002",
+        "price_per_base_unit": 14.0,
+        "captured_at": "2026-02-12T05:30:00+00:00",
+        "price_unit": "kg",
+        "diff_pct": 3.7
+      }
+    ],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-TM-DEMO-002",
+    "lowest_global_price_per_base_unit": 13.5,
+    "chosen_price_per_base_unit": 13.5,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T06:03:38.159034+00:00"
+  },
+  {
+    "product_id": "PROD-DEMO-FROZEN-EDAMAME",
+    "chosen_offer_id": "OFF-TM-DEMO-003",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-DEMO-003",
+        "price_per_base_unit": 3.0,
+        "captured_at": "2026-02-12T05:30:00+00:00",
+        "price_unit": "kg"
+      },
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-DEMO-003",
+        "price_per_base_unit": 3.2,
+        "captured_at": "2026-02-12T05:30:00+00:00",
+        "price_unit": "kg"
+      }
+    ],
+    "alternatives": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-DEMO-003",
+        "price_per_base_unit": 3.2,
+        "captured_at": "2026-02-12T05:30:00+00:00",
+        "price_unit": "kg",
+        "diff_pct": 6.67
+      }
+    ],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-TM-DEMO-003",
+    "lowest_global_price_per_base_unit": 3.0,
+    "chosen_price_per_base_unit": 3.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T06:03:38.159034+00:00"
+  },
+  {
+    "product_id": "PROD-DEMO-DRY-SOY",
+    "chosen_offer_id": "OFF-TM-DEMO-004",
+    "selected_supplier": "TheMart",
+    "decision_key": "supplier_sku",
+    "rule_applied": "LOWEST",
+    "candidates": [
+      {
+        "supplier": "TheMart",
+        "offer_id": "OFF-TM-DEMO-004",
+        "price_per_base_unit": 6.0,
+        "captured_at": "2026-02-12T05:30:00+00:00",
+        "price_unit": "lt"
+      },
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-DEMO-004",
+        "price_per_base_unit": 6.5,
+        "captured_at": "2026-02-12T05:30:00+00:00",
+        "price_unit": "lt"
+      }
+    ],
+    "alternatives": [
+      {
+        "supplier": "Alios",
+        "offer_id": "OFF-ALI-DEMO-004",
+        "price_per_base_unit": 6.5,
+        "captured_at": "2026-02-12T05:30:00+00:00",
+        "price_unit": "lt",
+        "diff_pct": 8.33
+      }
+    ],
+    "override_ref": null,
+    "reason_codes": [],
+    "lowest_global_offer_id": "OFF-TM-DEMO-004",
+    "lowest_global_price_per_base_unit": 6.0,
+    "chosen_price_per_base_unit": 6.0,
+    "savings_vs_lowest_global_per_base_unit": 0.0,
+    "decision_ts": "2026-02-12T06:03:38.159034+00:00"
+  }
+]

@@ -1,0 +1,11 @@
+run_type=offer
+template_type=B
+final_output=C:\Users\herax\.openclaw\workspace\skills\evochia-ops\runs\20260213-074903\b\final_output.docx
+proposal_payload=C:\Users\herax\.openclaw\workspace\skills\evochia-ops\runs\20260213-074903\b\proposal_payload.json
+proposal_validation=C:\Users\herax\.openclaw\workspace\skills\evochia-ops\runs\20260213-074903\b\proposal_validation.json
+proposal_issues=C:\Users\herax\.openclaw\workspace\skills\evochia-ops\runs\20260213-074903\b\proposal_issues.json
+render_validation=C:\Users\herax\.openclaw\workspace\skills\evochia-ops\runs\20260213-074903\b\render_validation.json
+render_issues=C:\Users\herax\.openclaw\workspace\skills\evochia-ops\runs\20260213-074903\b\render_issues.json
+flags_stale=0
+flags_anomaly=0
+locks_used=0

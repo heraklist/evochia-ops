@@ -1,0 +1,11 @@
+{
+  "OFF-4FSA-20260211-0001": {
+    "pack_unit": "kg",
+    "pack_size": 1,
+    "price": 1.5,
+    "product_name": "Νερό",
+    "category": "Ποτά",
+    "vat_rate": 0.13,
+    "currency": "EUR"
+  }
+}

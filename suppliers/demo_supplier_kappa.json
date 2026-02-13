@@ -1,0 +1,72 @@
+{
+  "supplier_id": "demo_supplier_kappa",
+  "supplier_name": "Demo Supplier Kappa",
+  "supplier_code": "DEM",
+  "layout_version": "v1",
+  "layout_rules": {
+    "required_anchors": [
+      "ΤΙΜΟΛΟΓΙΟ",
+      "ΠΕΡΙΓΡΑΦΗ",
+      "ΤΙΜΗ"
+    ],
+    "required_table_pattern": "line_items_v1"
+  },
+  "column_map": {
+    "supplier_sku": "item_code",
+    "product_name": "desc",
+    "category": "category",
+    "pack_size": "qty",
+    "pack_unit": "unit",
+    "price": "net",
+    "currency": "currency",
+    "vat_rate": "vat_rate",
+    "in_stock": "in_stock"
+  },
+  "unit_map": {
+    "ΚΙΛ": "kg",
+    "KG": "kg",
+    "ΤΕΜ": "pcs",
+    "PCS": "pcs",
+    "ΛΙΤ": "lt",
+    "LT": "lt"
+  },
+  "xlsx": {
+    "sheet": null,
+    "header_row": 1,
+    "column_map": {
+      "supplier_sku": "item_code",
+      "product_name": "desc",
+      "category": "category",
+      "pack_size": "qty",
+      "pack_unit": "unit",
+      "price": "net",
+      "currency": "currency",
+      "vat_rate": "vat_rate",
+      "in_stock": "in_stock"
+    },
+    "required_columns": [
+      "item_code",
+      "desc",
+      "qty",
+      "unit",
+      "net"
+    ],
+    "stop_rules": {
+      "blank_product_name": true
+    }
+  },
+  "pdf_ocr": {
+    "required_anchors": [
+      "ΤΙΜΟΛΟΓΙΟ",
+      "ΠΕΡΙΓΡΑΦΗ",
+      "ΤΙΜΗ"
+    ],
+    "required_table_pattern": "line_items_v1"
+  },
+  "defaults": {
+    "currency": "EUR",
+    "vat_rate": 0.13,
+    "tier": "standard",
+    "max_age_days": 14
+  }
+}

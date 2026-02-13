@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ProposalInput",
+  "type": "object",
+  "required": [
+    "proposal_id",
+    "proposal_type",
+    "template_type",
+    "client",
+    "event",
+    "pricing",
+    "terms",
+    "template_refs",
+    "compliance_status"
+  ],
+  "properties": {
+    "proposal_id": {"type": "string"},
+    "proposal_type": {"type": "string", "enum": ["A", "B"]},
+    "template_type": {"type": "string", "enum": ["A", "B"]},
+    "compliance_status": {"type": "string", "enum": ["PASS", "WARNING", "BLOCKED"]},
+    "client": {"type": "object"},
+    "event": {"type": "object"},
+    "menu": {"type": "object"},
+    "pricing": {"type": "object"},
+    "terms": {"type": "object"},
+    "template_refs": {
+      "type": "object",
+      "required": ["verbatim_blocks", "placeholders_only"],
+      "properties": {
+        "verbatim_blocks": {"type": "object"},
+        "placeholders_only": {"type": "boolean"}
+      }
+    }
+  }
+}

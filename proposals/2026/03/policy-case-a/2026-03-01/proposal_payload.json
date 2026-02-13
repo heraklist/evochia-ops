@@ -1,0 +1,81 @@
+{
+  "proposal_id": "PROP-2026-PCASE-A",
+  "proposal_type": "A",
+  "template_type": "A",
+  "compliance_status": "PASS",
+  "client": {
+    "title": "κ.",
+    "name": "Policy Case A",
+    "phone": "6900000001",
+    "email": "policy-a@example.com"
+  },
+  "event": {
+    "date": "2026-03-01",
+    "guest_count": 60,
+    "venue_name": "Athens Venue A",
+    "description": "Multi-supplier policy case A",
+    "service_style": "delivery"
+  },
+  "menu": {
+    "items": [
+      "Tomato",
+      "Tuna",
+      "Edamame"
+    ],
+    "item_quantities": [
+      60,
+      60,
+      60
+    ],
+    "course_categories": []
+  },
+  "pricing": {
+    "cost_total": 0.0,
+    "markup_pct": 300.0,
+    "discount_pct": 0.0,
+    "vat_rate": 0.13,
+    "round_to": 0.5,
+    "net_selling": 0.0,
+    "vat_value": 0.0,
+    "gross_total": 0.0,
+    "price_per_person": 0.0,
+    "formula": "net_selling = total_cost * (1 + markup_pct/100); discount on net before VAT; gross = net + VAT"
+  },
+  "terms": {
+    "includes_list": [
+      "disposables"
+    ],
+    "excludes_list": [],
+    "payment_method": "bank transfer"
+  },
+  "template_refs": {
+    "verbatim_blocks": {
+      "intro_block_ref": "TEMPLATE_FIXED_INTRO",
+      "closing_block_ref": "TEMPLATE_FIXED_CLOSING",
+      "sender_block_ref": "TEMPLATE_FIXED_SENDER"
+    },
+    "placeholders_only": true
+  },
+  "placeholder_values": {
+    "client_title": "κ.",
+    "client_name": "Policy Case A",
+    "client_phone": "6900000001",
+    "client_email": "policy-a@example.com",
+    "event_date": "2026-03-01",
+    "guest_count": 60,
+    "venue_name": "Athens Venue A",
+    "event_description": "Multi-supplier policy case A",
+    "service_style": "delivery",
+    "menu_items": "Tomato\nTuna\nEdamame",
+    "item_quantities": "60, 60, 60",
+    "course_categories": "",
+    "price_per_person": 0.0,
+    "net_selling": 0.0,
+    "vat_value": 0.0,
+    "gross_total": 0.0,
+    "vat_rate": 0.13,
+    "includes_list": "disposables",
+    "excludes_list": "",
+    "payment_method": "bank transfer"
+  }
+}

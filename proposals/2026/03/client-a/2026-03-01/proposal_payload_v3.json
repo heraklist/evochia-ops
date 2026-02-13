@@ -1,0 +1,84 @@
+{
+  "proposal_id": "PROP-SEL-A",
+  "proposal_type": "A",
+  "template_type": "A",
+  "compliance_status": "PASS",
+  "client": {
+    "title": "Mr",
+    "name": "Client A",
+    "phone": "000",
+    "email": "a@example.com"
+  },
+  "event": {
+    "date": "2026-03-01",
+    "guest_count": 20,
+    "venue_name": "Villa A",
+    "description": "Dinner",
+    "service_style": "plated"
+  },
+  "menu": {
+    "items": [
+      "Tomato Demo",
+      "Tuna Demo"
+    ],
+    "item_quantities": [
+      10,
+      5
+    ],
+    "course_categories": [
+      "starter",
+      "main"
+    ]
+  },
+  "pricing": {
+    "cost_total": 18.9,
+    "markup_pct": 20.0,
+    "discount_pct": 0.0,
+    "vat_rate": 0.13,
+    "round_to": 0.5,
+    "net_selling": 22.5,
+    "vat_value": 3.0,
+    "gross_total": 25.5,
+    "price_per_person": 1.28,
+    "formula": "net_selling = total_cost * (1 + markup_pct/100); discount on net before VAT; gross = net + VAT"
+  },
+  "terms": {
+    "includes_list": [
+      "setup"
+    ],
+    "excludes_list": [
+      "alcohol"
+    ],
+    "payment_method": "bank transfer"
+  },
+  "template_refs": {
+    "verbatim_blocks": {
+      "intro_block_ref": "TEMPLATE_FIXED_INTRO",
+      "closing_block_ref": "TEMPLATE_FIXED_CLOSING",
+      "sender_block_ref": "TEMPLATE_FIXED_SENDER"
+    },
+    "placeholders_only": true
+  },
+  "placeholder_values": {
+    "client_title": "Mr",
+    "client_name": "Client A",
+    "client_phone": "000",
+    "client_email": "a@example.com",
+    "event_date": "2026-03-01",
+    "guest_count": 20,
+    "venue_name": "Villa A",
+    "event_description": "Dinner",
+    "service_style": "plated",
+    "menu_items": "Tomato Demo\nTuna Demo",
+    "item_quantities": "10, 5",
+    "course_categories": "starter, main",
+    "price_per_person": 1.28,
+    "net_selling": 22.5,
+    "vat_value": 3.0,
+    "gross_total": 25.5,
+    "vat_rate": 0.13,
+    "includes_list": "setup",
+    "excludes_list": "alcohol",
+    "payment_method": "bank transfer"
+  }
+}

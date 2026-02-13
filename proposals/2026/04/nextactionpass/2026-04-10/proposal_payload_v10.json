@@ -1,0 +1,87 @@
+{
+  "proposal_id": "INTAKE-20260212-192238",
+  "proposal_type": "B",
+  "template_type": "B",
+  "compliance_status": "PASS",
+  "client": {
+    "title": "κ.",
+    "name": "NextActionPass",
+    "email": null,
+    "phone": null
+  },
+  "event": {
+    "event_date": "2026-04-10",
+    "date": "2026-04-10",
+    "guest_count": 30,
+    "location_text": null,
+    "venue_name": "TBD Venue",
+    "service_type": "delivery",
+    "service_type_code": "DEL",
+    "service_style": "finger",
+    "event_style": "finger",
+    "template_hint": null,
+    "description": "Offer intake"
+  },
+  "menu": {
+    "theme": null,
+    "items": [
+      "TBD menu"
+    ],
+    "item_quantities": [
+      30
+    ],
+    "tier": "standard",
+    "course_categories": [],
+    "excludes_list": [],
+    "notes": ""
+  },
+  "pricing": {
+    "cost_total": 0.1857,
+    "markup_pct": 300.0,
+    "discount_pct": 0.0,
+    "vat_rate": 0.13,
+    "round_to": 0.5,
+    "net_selling": 0.5,
+    "vat_value": 0.0,
+    "gross_total": 1.0,
+    "price_per_person": 0.03,
+    "formula": "net_selling = total_cost * (1 + markup_pct/100); discount on net before VAT; gross = net + VAT"
+  },
+  "terms": {
+    "includes_list": [
+      "as agreed"
+    ],
+    "excludes_list": [],
+    "payment_method": "bank transfer"
+  },
+  "template_refs": {
+    "verbatim_blocks": {
+      "intro_block_ref": "TEMPLATE_FIXED_INTRO",
+      "closing_block_ref": "TEMPLATE_FIXED_CLOSING",
+      "sender_block_ref": "TEMPLATE_FIXED_SENDER"
+    },
+    "placeholders_only": true
+  },
+  "placeholder_values": {
+    "client_title": "κ.",
+    "client_name": "NextActionPass",
+    "client_phone": null,
+    "client_email": null,
+    "event_date": "2026-04-10",
+    "guest_count": 30,
+    "venue_name": "TBD Venue",
+    "event_description": "Offer intake",
+    "service_style": "finger",
+    "menu_items": "TBD menu",
+    "item_quantities": "30",
+    "course_categories": "",
+    "price_per_person": 0.03,
+    "net_selling": 0.5,
+    "vat_value": 0.0,
+    "gross_total": 1.0,
+    "vat_rate": 0.13,
+    "includes_list": "as agreed",
+    "excludes_list": "",
+    "payment_method": "bank transfer"
+  }
+}

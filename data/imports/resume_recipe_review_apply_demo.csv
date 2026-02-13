@@ -1,0 +1,4 @@
+recipe_id,line_id,raw_ingredient,qty,unit,suggestion_1,suggestion_2,suggestion_3,set_product_id,persist_mode,reason
+RECIPE-001-nigiri-salmon,ING-001-resume-ing-a,resume_ing_a,180.0,g,,,,PROD-POTATO-STD,,resume_demo
+RECIPE-001-nigiri-salmon,ING-002-resume-ing-b,resume_ing_b,120.0,g,,,,PROD-POTATO-STD,,resume_demo
+RECIPE-001-nigiri-salmon,ING-003-resume-ing-c,resume_ing_c,1.0,g,,,,PROD-POTATO-STD,,resume_demo

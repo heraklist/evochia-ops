@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "filename": "2026-03-25_alios-real_DEL_B_20260212-1456.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\alios-real\\2026-03-25\\2026-03-25_alios-real_DEL_B_20260212-1456.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\alios-real\\2026-03-25\\proposal_payload.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\alios-real\\2026-03-25\\proposal_validation.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\alios-real\\2026-03-25\\proposal_issues.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\alios-real\\2026-03-25\\render_validation.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\alios-real\\2026-03-25\\render_issues.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\alios-real\\2026-03-25\\run_summary.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\alios-real\\2026-03-25\\decisions.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\alios-real\\2026-03-25\\template_selection.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-1456\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_MANUAL_TEMPLATE_TYPE"
+      },
+      "filing_version": "v1"
+    }
+  ]
+}

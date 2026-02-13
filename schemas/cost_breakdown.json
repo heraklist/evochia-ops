@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CostBreakdown",
+  "type": "object",
+  "required": ["recipe_id", "food_cost_total", "packaging_cost_total", "labor_cost_total", "total_cost", "per_portion"],
+  "properties": {
+    "recipe_id": {"type": "string"},
+    "food_cost_total": {"type": "number"},
+    "packaging_cost_total": {"type": "number"},
+    "labor_cost_total": {"type": "number"},
+    "total_cost": {"type": "number"},
+    "per_portion": {"type": "number"},
+    "lines": {"type": "array", "items": {"type": "object"}}
+  }
+}

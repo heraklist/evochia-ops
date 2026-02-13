@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "profile": "conservative",
+  "updated_at": "2026-02-12T09:18:00+02:00",
+  "policies": [
+    {
+      "id": "prefer-themart-produce-cons",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier_id": "TheMart",
+      "max_premium_pct": 5,
+      "selectors": {"service_type": ["DEL", "PC", "CAT"], "tier": ["standard"]}
+    },
+    {
+      "id": "prefer-alios-frozen-cons",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "frozen",
+      "supplier_id": "Alios",
+      "max_premium_pct": 5,
+      "selectors": {"service_type": ["DEL", "PC", "CAT"], "tier": ["standard"]}
+    },
+    {
+      "id": "prefer-alios-seafood-cons",
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "seafood",
+      "supplier_id": "Alios",
+      "max_premium_pct": 5,
+      "selectors": {"service_type": ["DEL", "PC", "CAT"], "tier": ["standard"]}
+    }
+  ]
+}

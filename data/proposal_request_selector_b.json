@@ -1,0 +1,14 @@
+{
+  "proposal_id": "PROP-SEL-B",
+  "service_type": "delivery",
+  "event_style": "finger",
+  "client": {"title": "Ms", "name": "Client B", "phone": "111", "email": "b@example.com"},
+  "event": {"date": "2026-03-02", "guest_count": 30, "venue_name": "Office B", "description": "Finger food delivery", "service_style": "buffet"},
+  "menu": {
+    "items": ["Edamame Demo", "Soy Sauce Demo"],
+    "item_quantities": [20, 2],
+    "course_categories": ["snack", "sauce"]
+  },
+  "pricing": {"vat_rate": 0.13, "markup_pct": 15, "discount_pct": 0, "round_to": 0.5},
+  "terms": {"includes_list": ["delivery"], "excludes_list": ["staff"], "payment_method": "cash"}
+}

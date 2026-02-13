@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "product_id": "PROD-OVL-001",
+      "canonical_name": "PROD-OVL-001",
+      "category": "produce",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Iceberg εισαγωγής",
+        "Wasabi Paste, 43g, Yutaka – China"
+      ]
+    },
+    {
+      "product_id": "PROD-OVL-002",
+      "canonical_name": "PROD-OVL-002",
+      "category": "seafood",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Blueberries εισαγωγής (125g)",
+        "Edamame ENSO, whole pods, blanched – China"
+      ]
+    },
+    {
+      "product_id": "PROD-OVL-003",
+      "canonical_name": "PROD-OVL-003",
+      "category": "frozen",
+      "tier": "standard",
+      "base_unit": "kg",
+      "aliases": [
+        "Blackberries εισαγωγής (125g)",
+        "Ginger pickled, 1kg, Gari pink, Enso - China AA GRADE"
+      ]
+    }
+  ]
+}

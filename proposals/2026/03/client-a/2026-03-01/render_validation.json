@@ -1,0 +1,30 @@
+{
+  "template": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\templates\\Template_TypeA.docx",
+  "output": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\20260212-0803\\a\\final_output.docx",
+  "rendered": true,
+  "template_placeholders": [
+    "client_email",
+    "client_name",
+    "client_phone",
+    "client_title",
+    "event_date",
+    "gross_total",
+    "guest_count",
+    "includes_list",
+    "item_quantities",
+    "menu_items",
+    "net_selling",
+    "payment_method",
+    "price_per_person",
+    "vat_rate",
+    "vat_value"
+  ],
+  "unresolved_after_render": [],
+  "compliance_status": "PASS",
+  "checks": {
+    "pass_required": true,
+    "template_exists": true,
+    "placeholders_only": true,
+    "no_unresolved_placeholders": true
+  }
+}

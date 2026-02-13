@@ -1,0 +1,34 @@
+{
+  "version": "v1",
+  "notes": "Production overrides for controlled rollout. Activate with --enable-production-overrides and --rollout-categories.",
+  "overrides": [
+    {
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "produce",
+      "supplier": "TheMart",
+      "max_premium_pct": 20
+    },
+    {
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "seafood",
+      "supplier": "Alios",
+      "max_premium_pct": 20
+    },
+    {
+      "rule": "PREFER",
+      "scope": "category",
+      "match": "frozen",
+      "supplier": "Alios",
+      "max_premium_pct": 20
+    },
+    {
+      "rule": "LOCK",
+      "scope": "product",
+      "match": "PROD-DEMO-DRY-SOY",
+      "product_id": "PROD-DEMO-DRY-SOY",
+      "supplier": "Alios"
+    }
+  ]
+}

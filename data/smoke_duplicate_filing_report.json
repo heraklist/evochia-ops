@@ -1,0 +1,17 @@
+{
+  "run_dir": "skills/evochia-ops/runs/20260212-0814/a",
+  "target_dir": "skills/evochia-ops/proposals/2026/03/client-a/2026-03-01",
+  "expected_prefix": "2026-03-01_client-a_PC_A_20260212-0814",
+  "files": [
+    "2026-03-01_client-a_PC_A_20260212-0814.docx",
+    "2026-03-01_client-a_PC_A_20260212-0814_v2.docx",
+    "2026-03-01_client-a_PC_A_20260212-0814_v3.docx"
+  ],
+  "manifest": "skills/evochia-ops/proposals/2026/03/client-a/2026-03-01/manifest.json",
+  "checks": {
+    "base_exists": true,
+    "v2_exists": true,
+    "v3_exists": true,
+    "same_run_id": true
+  }
+}

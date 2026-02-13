@@ -1,0 +1,387 @@
+<!doctype html>
+<html lang="el">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Ombre et Désir - Private Dinner Experience</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@300;400;600&family=Lato:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
+  
+  <style>
+    @page { 
+      size: A4; 
+      margin: 0; 
+    }
+    
+    * { 
+      box-sizing: border-box; 
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: "Lato", sans-serif;
+      color: #F2E8DC;
+      width: 210mm; 
+      height: 297mm;
+      overflow: hidden;
+      position: relative;
+      
+      /* YOUR ORIGINAL BACKGROUND */
+      background: 
+        radial-gradient(900px 600px at 20% 10%, rgba(42,13,24,.55), transparent 60%),
+        radial-gradient(700px 500px at 85% 35%, rgba(183,110,121,.18), transparent 60%),
+        radial-gradient(900px 700px at 50% 110%, rgba(42,13,24,.45), transparent 60%),
+        linear-gradient(180deg, #0B0B10 0%, #09090f 100%);
+    }
+
+    /* Subtle texture overlay (from your original) */
+    body::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: 
+        radial-gradient(circle at 20% 30%, rgba(199,163,90,.05) 0 2px, transparent 3px),
+        radial-gradient(circle at 70% 60%, rgba(199,163,90,.04) 0 2px, transparent 3px);
+      filter: blur(.3px);
+      opacity: .8;
+      pointer-events: none;
+      z-index: 1;
+    }
+
+    .page {
+      width: 210mm; 
+      height: 297mm;
+      position: relative;
+      z-index: 10;
+      padding: 18mm 20mm;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Elegant thin border frame */
+    .frame {
+      position: absolute;
+      inset: 15mm;
+      border: 0.8px solid rgba(199, 163, 90, 0.3);
+      border-radius: 1px;
+      pointer-events: none;
+      z-index: 5;
+    }
+
+    /* Left accent line (bookmark effect) */
+    .accent-line {
+      position: absolute;
+      left: 18mm;
+      top: 22mm;
+      bottom: 22mm;
+      width: 1px;
+      background: linear-gradient(
+        to bottom,
+        transparent,
+        rgba(199, 163, 90, 0.35) 15%,
+        rgba(199, 163, 90, 0.35) 85%,
+        transparent
+      );
+      pointer-events: none;
+      z-index: 15;
+    }
+
+    /* Header */
+    header {
+      text-align: center;
+      margin-bottom: 4mm;
+      position: relative;
+      z-index: 20;
+    }
+
+    .title {
+      font-family: "Cormorant Garamond", serif;
+      font-size: 34pt;
+      font-weight: 300;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: #F2E8DC;
+      margin-bottom: 2.5mm;
+      line-height: 1.1;
+    }
+
+    .subtitle {
+      font-family: "Lato", sans-serif;
+      font-size: 9.5pt;
+      font-weight: 400;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #F2E8DC;
+      margin-bottom: 2mm;
+    }
+
+    .header-meta {
+      font-family: "Lato", sans-serif;
+      font-size: 8pt;
+      font-weight: 300;
+      color: rgba(242, 232, 220, 0.5);
+      letter-spacing: 0.05em;
+    }
+
+    /* Dividers - NO SYMBOLS, just lines */
+    .divider-main {
+      height: 1px;
+      background: linear-gradient(
+        to right,
+        transparent,
+        rgba(199, 163, 90, 0.45) 35%,
+        rgba(199, 163, 90, 0.45) 65%,
+        transparent
+      );
+      margin: 3mm auto;
+      width: 40%;
+    }
+
+    .divider-section {
+      height: 1px;
+      background: linear-gradient(
+        to right,
+        transparent,
+        rgba(199, 163, 90, 0.3) 40%,
+        rgba(199, 163, 90, 0.3) 60%,
+        transparent
+      );
+      margin: 3.5mm auto;
+      width: 30%;
+    }
+
+    .divider-thin {
+      height: 0.5px;
+      background: linear-gradient(
+        to right,
+        transparent 35%,
+        rgba(199, 163, 90, 0.15) 45%,
+        rgba(199, 163, 90, 0.15) 55%,
+        transparent 65%
+      );
+      margin: 1.8mm auto;
+      width: 20%;
+    }
+
+    /* Menu content */
+    .menu-content {
+      flex: 1;
+      position: relative;
+      z-index: 20;
+    }
+
+    .course {
+      text-align: center;
+      margin-bottom: 2.2mm;
+    }
+
+    .course-title {
+      font-family: "Cormorant Garamond", serif;
+      font-size: 10.5pt;
+      font-weight: 600;
+      color: #F2E8DC;
+      display: block;
+      margin-bottom: 1mm;
+      letter-spacing: 0.02em;
+    }
+
+    .poem {
+      font-family: "Lato", sans-serif;
+      font-style: italic;
+      font-weight: 300;
+      font-size: 7.2pt;
+      line-height: 1.35;
+      color: #C7A35A;
+      margin: 0.7mm 0;
+    }
+
+    .ingredients {
+      font-family: "Lato", sans-serif;
+      font-size: 8pt;
+      font-weight: 400;
+      color: #F2E8DC;
+      margin: 0.7mm 0;
+      display: block;
+    }
+
+    .desc {
+      font-family: "Lato", sans-serif;
+      font-size: 7.2pt;
+      font-weight: 300;
+      line-height: 1.4;
+      color: rgba(242, 232, 220, 0.7);
+      padding: 0 12mm;
+      margin: 0.6mm 0;
+    }
+
+    /* Footer */
+    footer {
+      margin-top: auto;
+      padding-top: 4mm;
+      border-top: 1px solid rgba(199, 163, 90, 0.2);
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      position: relative;
+      z-index: 20;
+    }
+
+    .footer-left {
+      line-height: 1.6;
+    }
+
+    .brand-name {
+      font-family: "Lato", sans-serif;
+      font-size: 9.5pt;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+    }
+
+    .brand-gold {
+      color: #C7A35A;
+    }
+
+    .brand-gray {
+      color: #7A7A7A;
+      font-weight: 400;
+    }
+
+    .footer-tagline {
+      font-family: "Lato", sans-serif;
+      font-size: 8pt;
+      font-weight: 300;
+      color: #7A7A7A;
+      margin-top: 1mm;
+    }
+
+    .price {
+      font-family: "Cormorant Garamond", serif;
+      font-size: 13pt;
+      font-weight: 400;
+      color: #F2E8DC;
+      letter-spacing: 0.05em;
+    }
+
+    /* Print optimization */
+    @media print {
+      body {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="frame"></div>
+  <div class="accent-line"></div>
+  
+  <div class="page">
+    
+    <header>
+      <h1 class="title">Ombre et Désir</h1>
+      <div class="subtitle">French Bistro Noir · Private Dinner Experience</div>
+      <div class="header-meta">Seven courses · Premium ingredients · Equipment & service included</div>
+    </header>
+
+    <div class="divider-main"></div>
+
+    <div class="menu-content">
+      
+      <!-- L'Ouverture - NO SYMBOLS -->
+      <section class="course">
+        <span class="course-title">L'Ouverture</span>
+        <div class="poem">"Welcome Champagne — ένα τοστ πριν από τη νύχτα."</div>
+        <span class="ingredients">Welcome Champagne</span>
+        <p class="desc">Φυσαλίδες που χορεύουν στο σκοτάδι, προμηνύοντας την εμπειρία που ακολουθεί.</p>
+      </section>
+
+      <div class="divider-thin"></div>
+
+      <!-- Amuse -->
+      <section class="course">
+        <span class="course-title">Amuse — Consommé Noir</span>
+        <div class="poem">"Στην αρχή, δεν τρως. Ακούς. Το δάσος βράζει χαμηλόφωνα."</div>
+        <span class="ingredients">Κονσομέ Μανιταριών · Porcini · Θυμάρι · Μαύρο Πιπέρι</span>
+        <p class="desc">Διάφανο κονσομέ από ψημένα μανιτάρια και αποξηραμένα porcini, με μια λεπτή λεπίδα οξύτητας.</p>
+        <div class="poem">"Κι εκεί, στο πρώτο άρωμα, η νύχτα ανοίγει."</div>
+      </section>
+
+      <div class="divider-thin"></div>
+
+      <!-- Entrée -->
+      <section class="course">
+        <span class="course-title">Entrée — Lumière Frisée</span>
+        <div class="poem">"Το αυγό ανοίγει και ο χρόνος σταματά — μια καρδιά ζεστή, μέσα σε φως ψυχρό."</div>
+        <span class="ingredients">Frisée · Λαρδόν · Αυγό ποσέ · Vinaigrette σαμπάνιας</span>
+        <p class="desc">Τρυφερή φριζέ σαλάτα με καραμελωμένα λαρδόν με vinaigrette σαμπάνιας.</p>
+      </section>
+
+      <div class="divider-thin"></div>
+
+      <!-- Plat Froid -->
+      <section class="course">
+        <span class="course-title">Plat Froid — Vitello Tonnato Noir</span>
+        <div class="poem">"Γεννημένη από τη θάλασσα — η στεριά ζήλεψε τη σιωπή του νερού."</div>
+        <span class="ingredients">Vitello Tonnato · Κρέμα Τόνου & Αντσούγιας · Κάπαρη · Λάδι μαύρης τρούφας</span>
+        <p class="desc">Λεπτές φέτες από μοσχάρι sous vide, με βελούδινη σάλτσα τόνου.</p>
+        <div class="poem">"Εκεί που το νερό άγγιξε το χώμα, γεννήθηκε η σάρκα. Κι η αλμύρα έγινε μνήμη."</div>
+      </section>
+
+      <!-- Section divider before warm course -->
+      <div class="divider-section"></div>
+
+      <!-- Plat Chaud - UPDATED DESCRIPTION -->
+      <section class="course">
+        <span class="course-title">Plat Chaud — Coquelet Noir</span>
+        <div class="poem">"Το πρώτο ζεστό σημάδι στη νύχτα. Η φωτιά χαράζει τη σάρκα —<br>κι ο ατμός, γίνεται εξομολόγηση."</div>
+        <span class="ingredients">Νεαρό Κοκοράκι · Jus Κόκκινου Κρασιού · Λαχανικά · Θυμάρι</span>
+        <p class="desc">Ροδοψημένο κοκοράκι με jus κόκκινου κρασιού, pommes fondantes και λαχανικά γλασέ — βελούδο, γη, και μια λάμψη κεχριμπαριού. Ένα πιάτο που ζεσταίνει τη σκιά, και για λίγο την κάνει ανθρώπινη.</p>
+        <div class="poem">"Στο τέλος, δεν είναι η σκιά που μένει — είναι η ζεστασιά της."</div>
+      </section>
+
+      <div class="divider-thin"></div>
+
+      <!-- Fromage -->
+      <section class="course">
+        <span class="course-title">Fromage — Les Silences du Lait</span>
+        <div class="poem">"Η σιωπή του γάλακτος είναι αρχαία. Μιλά μόνο όταν ωριμάσει."</div>
+        <span class="ingredients">Deux Artisan Τυριά · Κομπόστα Αχλαδιού · Μέλι au choix</span>
+        <p class="desc">Brie με χρυσαφένια κομπόστα αχλαδιού, δίπλα σε ώριμο Comté.</p>
+        <div class="poem">"Στο τέλος, κάθε ωρίμανση ζητά εξιλέωση. Και κάθε αλμύρα, κάτι γλυκό για να εξιλεωθεί."</div>
+      </section>
+
+      <div class="divider-thin"></div>
+
+      <!-- Finale -->
+      <section class="course">
+        <span class="course-title">Finale — Paris-Brest Noir</span>
+        <div class="poem">"Ο κύκλος δεν τελειώνει. Εκεί που η γλύκα δαγκώνει τον εαυτό της · γεννά την επιθυμία."</div>
+        <span class="ingredients">Paris-Brest · Crème Pralinée Noisette · Bitter Σοκολάτα · Fleur de Sel</span>
+        <p class="desc">Choux pâte, γεμισμένο με mousse praline noisette και ganache bitter σοκολάτας.</p>
+        <div class="poem">"Ένας κύκλος χωρίς αρχή, χωρίς μετάνοια — μόνο η επιστροφή του φιλιού, στη γεύση της μνήμης."</div>
+      </section>
+
+    </div>
+
+    <footer>
+      <div class="footer-left">
+        <div class="brand-name">
+          <span class="brand-gold">EVOCHIA</span> <span class="brand-gray">· Private Culinary Experience</span>
+        </div>
+        <div class="footer-tagline">Curated & served in your private space</div>
+      </div>
+      <div class="price">170€ / άτομο</div>
+    </footer>
+
+  </div>
+</body>
+</html>
+<!-- PLACEHOLDER_ANCHOR_START -->
+<div style="display:none">0</div>
+<div style="display:none"></div>
+<div style="display:none"></div>
+<!-- PLACEHOLDER_ANCHOR_END -->

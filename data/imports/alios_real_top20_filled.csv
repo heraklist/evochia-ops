@@ -1,0 +1,21 @@
+needs_review_id,supplier_sku,raw_desc,qty,unit_raw,net_price,issue_code,suggestion_1,suggestion_2,suggestion_3,set_product_id,set_unit,set_pack_size,set_pack_unit,persist_mode,reason
+OFF-ALI-20260212-0006,YK70896,"Wasabi Paste, 43g, Yutaka – China",1.0,pcs,1.75,unmapped,,,,PROD-ALIOS-REAL-001,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0007,12550,"Kona Wasabi with Wasabits, Kinjirushi, Japan",1.0,pcs,19.6,unmapped,,,,PROD-ALIOS-REAL-002,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0008,80102,"Konawasabi ""A"", Horseradish mustard powder - China",1.0,pcs,6.28,unmapped,,,,PROD-ALIOS-REAL-003,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0009,98010,"Konawasabi ""Premium""",1.0,pcs,9.25,unmapped,,,,PROD-ALIOS-REAL-004,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0010,40120,"Ginger pickled, 1kg, Gari pink, Enso - China AA GRADE",1.0,pcs,2.68,unmapped,,,,PROD-ALIOS-REAL-005,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0011,40113,"Ginger pickled, 1kg, Gari white, Enso - China AA GRADE",1.0,pcs,2.68,unmapped,,,,PROD-ALIOS-REAL-006,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0012,010409020,"Soysauce, 1lt, Kikkoman – Netherlands",1.0,pcs,5.49,unmapped,,,,PROD-ALIOS-REAL-007,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0013,010409244,"Soysauce Less Salt, 975ml, Kikkoman – Netherlands",1.0,pcs,6.48,unmapped,,,,PROD-ALIOS-REAL-008,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0014,80032,MISO PASTE WHITE GMO FREE (1kg) ΙΑΠΩΝΙΑ,1.0,pcs,3.38,unmapped,,,,PROD-ALIOS-REAL-009,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0015,U2778,"Rice wine, Sake 720ml, 16% Vol",1.0,pcs,61.5,unmapped,,,,PROD-ALIOS-REAL-010,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0016,U2779,"Rice wine, Sake 720ml, 16% Vol",1.0,pcs,37.94,unmapped,,,,PROD-ALIOS-REAL-011,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0017,U5026A,"Rice wine, Sake 720ml, 16% Vol",1.0,pcs,27.94,unmapped,,,,PROD-ALIOS-REAL-012,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0018,R227A,"Unagi Topping, Eel, marinated, roasted",1.0,pcs,4.86,unmapped,,,,PROD-ALIOS-REAL-013,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0019,1578,Tobikko Orange – Korea,1.0,pcs,12.93,unmapped,,,,PROD-ALIOS-REAL-014,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0020,SU.700.212.500,Tobikko Orange – Poland,1.0,pcs,12.93,unmapped,,,,PROD-ALIOS-REAL-015,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0021,1596,Tobikko Black – Korea,1.0,pcs,12.93,unmapped,,,,PROD-ALIOS-REAL-016,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0022,1597,Tobikko Red – Korea,1.0,pcs,12.93,unmapped,,,,PROD-ALIOS-REAL-017,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0023,SU.705.112.500,Tobikko Yuzu – Letonia,1.0,pcs,12.93,unmapped,,,,PROD-ALIOS-REAL-018,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0024,4807,"Edamame Kernels, peeled, blanched – China",1.0,pcs,1.64,unmapped,,,,PROD-ALIOS-REAL-019,pcs,1.0,pcs,sku_map,alios real top20 onboarding
+OFF-ALI-20260212-0025,01643,"Edamame ENSO, whole pods, blanched – China",1.0,pcs,1.39,unmapped,,,,PROD-ALIOS-REAL-020,pcs,1.0,pcs,sku_map,alios real top20 onboarding

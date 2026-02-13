@@ -1,0 +1,604 @@
+{
+  "entries": [
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v1"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v2.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v2.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v2.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v2.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v2.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v2"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v3.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v3.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v3.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v3.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v3.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v3.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v3.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v3.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v3.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v3.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v3"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v4.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v4.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v4.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v4.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v4.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v4.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v4.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v4.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v4.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v4.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v4"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v5.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v5.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v5.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v5.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v5.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v5.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v5.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v5.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v5.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v5.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v5"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v6.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v6.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v6.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v6.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v6.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v6.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v6.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v6.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v6.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v6.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v6"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v7.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v7.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v7.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v7.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v7.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v7.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v7.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v7.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v7.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v7.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v7"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v8.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v8.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v8.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v8.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v8.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v8.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v8.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v8.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v8.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v8.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v8"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v9.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v9.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v9.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v9.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v9.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v9.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v9.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v9.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v9.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v9.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v9"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v10.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v10.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v10.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v10.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v10.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v10.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v10.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v10.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v10.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v10.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v10"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v11.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v11.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v11.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v11.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v11.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v11.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v11.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v11.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v11.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v11.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v11"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v12.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v12.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v12.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v12.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v12.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v12.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v12.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v12.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v12.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v12.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v12"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v13.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v13.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v13.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v13.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v13.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v13.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v13.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v13.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v13.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v13.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v13"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v14.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v14.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v14.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v14.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v14.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v14.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v14.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v14.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v14.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v14.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v14"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v15.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v15.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v15.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v15.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v15.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v15.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v15.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v15.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v15.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v15.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v15"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v16.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v16.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v16.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v16.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v16.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v16.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v16.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v16.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v16.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v16.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v16"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v17.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v17.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v17.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v17.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v17.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v17.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v17.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v17.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v17.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v17.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v17"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v18.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v18.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v18.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v18.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v18.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v18.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v18.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v18.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v18.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v18.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v18"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v19.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v19.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v19.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v19.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v19.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v19.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v19.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v19.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v19.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v19.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v19"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v20.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v20.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v20.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v20.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v20.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v20.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v20.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v20.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v20.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v20.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v20"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v21.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v21.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v21.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v21.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v21.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v21.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v21.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v21.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v21.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v21.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v21"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v22.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v22.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v22.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v22.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v22.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v22.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v22.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v22.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v22.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v22.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v22"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v23.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v23.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v23.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v23.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v23.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v23.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v23.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v23.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v23.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v23.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v23"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v24.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v24.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v24.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v24.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v24.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v24.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v24.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v24.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v24.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v24.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v24"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v25.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v25.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v25.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v25.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v25.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v25.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v25.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v25.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v25.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v25.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v25"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v26.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v26.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v26.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v26.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v26.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v26.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v26.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v26.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v26.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v26.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v26"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v27.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v27.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v27.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v27.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v27.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v27.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v27.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v27.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v27.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v27.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v27"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v28.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v28.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v28.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v28.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v28.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v28.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v28.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v28.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v28.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v28.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v28"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v29.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v29.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v29.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v29.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v29.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v29.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v29.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v29.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v29.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v29.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v29"
+    },
+    {
+      "filename": "2026-03-18_nikos_DEL_B_client-slug-test_v30.docx",
+      "filed_artifacts": [
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\2026-03-18_nikos_DEL_B_client-slug-test_v30.docx",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_payload_v30.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_validation_v30.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\proposal_issues_v30.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_validation_v30.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\render_issues_v30.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\run_summary_v30.txt",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\decisions_v30.json",
+        "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\proposals\\2026\\03\\nikos\\2026-03-18\\template_selection_v30.json"
+      ],
+      "source_run_path": "C:\\Users\\herax\\.openclaw\\workspace\\skills\\evochia-ops\\runs\\phase30-demo\\client-slug-test\\b",
+      "compliance_status": "PASS",
+      "template_selection": {
+        "rule_fired": "RULE_B_DELIVERY_FINGER"
+      },
+      "filing_version": "v30"
+    }
+  ]
+}

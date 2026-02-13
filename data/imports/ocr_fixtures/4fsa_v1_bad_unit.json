@@ -1,0 +1,7 @@
+{
+  "table_pattern": "line_items_v1",
+  "anchors_detected": ["ΤΙΜΟΛΟΓΙΟ", "ΠΕΡΙΓΡΑΦΗ", "ΠΟΣΟΤ"],
+  "rows": [
+    {"item_code": "4F-002", "desc": "Νερό", "qty": "1", "unit": "ΚΙΒ", "net": "1.50", "vat_rate": 0.13, "category": "Ποτά"}
+  ]
+}

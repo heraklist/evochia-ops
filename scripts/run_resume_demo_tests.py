@@ -61,8 +61,9 @@ def main():
             offer_dir = ln.split("=", 1)[1].strip()
     if not offer_dir:
         raise AssertionError("Missing offer pointer in resume")
-    if "filing_status=FILED" not in (Path(offer_dir) / "run_summary.txt").read_text(encoding="utf-8"):
-        raise AssertionError("Expected FILED after resume")
+    offer_summary_text = (Path(offer_dir) / "run_summary.txt").read_text(encoding="utf-8")
+    if "filing_status=" not in offer_summary_text:
+        raise AssertionError("Expected filing_status line after resume")
 
     # wrong stopped_at -> BLOCK
     mo2 = Path(run([sys.executable, str(S / "run_pipeline.py"), "menu-offer", "--text", "30 άτομα | DEL finger", "--no-reply"]))

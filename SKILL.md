@@ -42,8 +42,9 @@ Run deterministic pipeline steps:
 - `scripts/render_docx.py` - strict placeholder-based DOCX render (PASS-only)
 - `scripts/convert_doc_to_docx.ps1` - convert legacy .doc reference files to .docx
 
-## Command Contract (Phase 2 prep)
+## Command Contract (Current interface)
 Use explicit runner commands:
+> Note: Phase 2 rules are OFF by default unless explicitly enabled.
 - `import` → imports-first ingress (CSV/OCR) to unified price quotes
 - `prices` → price intake/export only (Phase-1 deterministic path)
 - `cost` → recipe to cost only
@@ -64,4 +65,4 @@ Run local golden regression checks:
 - `python scripts/run_regression_tests.py`
 
 ## Current status
-Phase 1.1 hardening in progress.
+Phase 1 clean ship complete (hardening frozen).

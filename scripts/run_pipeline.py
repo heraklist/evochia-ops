@@ -2450,6 +2450,16 @@ def cmd_offer(args):
             "--issues-out",
             str(render_issues),
         ])
+
+        # consistency: reflect successful DOCX render in proposal validation checks
+        pv_obj = load_json(validation)
+        rv_obj = load_json(render_validation)
+        checks_obj = pv_obj.get("checks")
+        if not isinstance(checks_obj, dict):
+            checks_obj = {}
+            pv_obj["checks"] = checks_obj
+        checks_obj["docx_rendered"] = bool(rv_obj.get("rendered") is True)
+        validation.write_text(json.dumps(pv_obj, ensure_ascii=False, indent=2), encoding="utf-8")
     else:
         build_typec_payload(str(request_path), str(cost_json), str(payload))
         # keep validation/issues files for symmetry

@@ -131,6 +131,21 @@ def main():
     Path(args.issues_out).parent.mkdir(parents=True, exist_ok=True)
     Path(args.issues_out).write_text(json.dumps(issues, ensure_ascii=False, indent=2), encoding="utf-8")
 
+    # Consistency update: when DOCX render succeeds, mark docx_rendered=true in sibling proposal_validation.json
+    if rendered:
+        proposal_validation_path = Path(args.validation_out).with_name("proposal_validation.json")
+        if proposal_validation_path.exists():
+            try:
+                proposal_validation = json.loads(proposal_validation_path.read_text(encoding="utf-8"))
+                checks = proposal_validation.get("checks")
+                if not isinstance(checks, dict):
+                    checks = {}
+                    proposal_validation["checks"] = checks
+                checks["docx_rendered"] = True
+                proposal_validation_path.write_text(json.dumps(proposal_validation, ensure_ascii=False, indent=2), encoding="utf-8")
+            except Exception:
+                pass
+
     print(json.dumps({"rendered": rendered, "compliance_status": compliance_status, "issues": len(issues)}, ensure_ascii=False))
 
 
